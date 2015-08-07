@@ -1,41 +1,46 @@
 {
 	"number": "1",
-	"date": "19-04-2015",
+	"date": "07-08-2015",
 	"items": [
 		{
-			"url": "https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015",
-			"desc": "Presentation about Chrome Dev Tools",
-			"tags": ["chrome"]
+			"url": "https://woocommerce.wordpress.com/2015/08/06/new-woocommerce-rest-api-wrappers/",
+			"desc": "New WooCommerce REST API Wrappers",
+			"tags": ["woocommerce",]
 		},
 		{
-			"url": "http://genius.it/ejohn.org/files/jquery-original.html",
-			"desc": "Original jQuery code - with John Resig comments",
-			"tags": ["js"]
+			"url": "https://blog.sucuri.net/2015/08/wp-cli-guide-installing-wordpress.html",
+			"desc": "WP-CLI Guide: Install WordPress via SSH",
+			"tags": ["wp-cli", "ssh"]
 		},
 		{
-			"url": "https://blog.korelogic.com/blog/2015/01/12/javascript_deobfuscation",
-			"desc": "Article about JavaScript deobfuscation",
-			"tags": ["js"]
+			"url": "https://make.wordpress.org/themes/2015/06/11/moving-to-the-customizer-api-from-the-settings-api-using-options-api/",
+			"desc": "Moving to the Customizer API from the Settings API, using Options API",
+			"tags": ["theme-customizer","settings-api","options-api"]
 		},
 		{
-			"url": "http://toddmotto.com/es6-arrow-functions-syntaxes-and-lexical-scoping/",
-			"desc": "Article about arrow functions in ECMAScript 6",
-			"tags": ["js","es2015"]
+			"url": "https://make.wordpress.org/core/2015/07/29/fast-previewing-changes-to-menus-in-the-customizer/",
+			"desc": "Fast previewing changes to Menus in the Customizer",
+			"tags": ["theme-cstomizer","partial-refresh"]
 		},
 		{
-			"url": "http://www.2ality.com/2015/04/numbers-math-es6.html",
-			"desc": "Numbers and Math in ECMAScript 6",
-			"tags": ["js","es2015"]
+			"url": "https://www.gavick.com/blog/woocommerce-product-layout",
+			"desc": "Creating a WooCommerce product display layout for your WordPress theme",
+			"tags": ["woocommerce","wp_query"]
 		},
 		{
-			"url": "http://youtu.be/uaGotppPsCs",
-			"desc": "'What is branding?' - beautiful and minimalistic animation",
-			"tags": ["video"]
+			"url": "http://wpandlegalstuff.com/a-human-readable-summary-of-the-gpl/",
+			"desc": "A human readable summary of the GPL?",
+			"tags": ["gpl","licensing"]
 		},
 		{
-			"url": "http://zurb.com/patterntap",
-			"desc": "Patterntap - collection of UI/UX inspirations",
-			"tags": ["ui","ux"]
+			"url": "http://wpsnipp.com/index.php/template/add-custom-attribute-image-using-the_post_thumbnail/",
+			"desc": "How to Add custom attribute to image using the_post_thumbnail",
+			"tags": ["snippet"]
+		},
+		{
+			"url": "http://www.codeinwp.com/blog/visualizer-charts-and-graphs-plugin-review/",
+			"desc": "Integrating Charts and Graphs With WordPress (The How-To) – Visualizer Plugin Review",
+			"tags": ["plugin","review","charts"]
 		}
 	]
 }

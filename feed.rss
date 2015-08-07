@@ -1,105 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>Dev Links by Dziudek</title>
-  <link>http://dziudek.github.io/dev-links</link>
-  <description>weekly source of the front-end/programming resources</description>
-  <lastBuildDate>Mon, 03 Aug 2015 09:39:50 +0000</lastBuildDate>
-  <item>
-    <title>Issue #16</title>
-    <link>http://dziudek.github.io/dev-links/#16</link>
-    <description>Sixteenth issue of Dev Links</description>
-    <pubDate>Mon, 03 Aug 2015 09:39:50 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #15</title>
-    <link>http://dziudek.github.io/dev-links/#15</link>
-    <description>Fifteenth issue of Dev Links</description>
-    <pubDate>Mon, 27 Jul 2015 10:49:40 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #14</title>
-    <link>http://dziudek.github.io/dev-links/#14</link>
-    <description>Fourteenth issue of Dev Links</description>
-    <pubDate>Mon, 20 Jul 2015 11:32:30 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #13</title>
-    <link>http://dziudek.github.io/dev-links/#13</link>
-    <description>Thirteenth issue of Dev Links</description>
-    <pubDate>Mon, 13 Jul 2015 09:13:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #12</title>
-    <link>http://dziudek.github.io/dev-links/#12</link>
-    <description>Twelveth issue of Dev Links</description>
-    <pubDate>Sun, 05 Jul 2015 13:10:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #11</title>
-    <link>http://dziudek.github.io/dev-links/#11</link>
-    <description>Eleventh issue of Dev Links</description>
-    <pubDate>Sun, 28 Jun 2015 22:01:30 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #10</title>
-    <link>http://dziudek.github.io/dev-links/#10</link>
-    <description>Tenth issue of Dev Links</description>
-    <pubDate>Sun, 21 Jun 2015 21:42:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #9</title>
-    <link>http://dziudek.github.io/dev-links/#9</link>
-    <description>Nineth issue of Dev Links</description>
-    <pubDate>Sun, 14 Jun 2015 21:57:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #8</title>
-    <link>http://dziudek.github.io/dev-links/#8</link>
-    <description>Eighth issue of Dev Links</description>
-    <pubDate>Sun, 07 Jun 2015 20:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #7</title>
-    <link>http://dziudek.github.io/dev-links/#7</link>
-    <description>Seventh issue of Dev Links</description>
-    <pubDate>Sat, 30 May 2015 20:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #6</title>
-    <link>http://dziudek.github.io/dev-links/#6</link>
-    <description>Sixth issue of Dev Links</description>
-    <pubDate>Sun, 24 May 2015 20:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #5</title>
-    <link>http://dziudek.github.io/dev-links/#5</link>
-    <description>Fifth issue of Dev Links</description>
-    <pubDate>Sun, 17 May 2015 20:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #4</title>
-    <link>http://dziudek.github.io/dev-links/#4</link>
-    <description>Fourth issue of Dev Links</description>
-    <pubDate>Sun, 10 May 2015 20:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #3</title>
-    <link>http://dziudek.github.io/dev-links/#3</link>
-    <description>Third issue of Dev Links</description>
-    <pubDate>Sun, 3 May 2015 20:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>Issue #2</title>
-    <link>http://dziudek.github.io/dev-links/#2</link>
-    <description>Second issue of Dev Links</description>
-    <pubDate>Sun, 26 Apr 2015 20:00:00 +0000</pubDate>
-  </item>
+  <title>WP Links by Dziudek</title>
+  <link>http://dziudek.github.io/wp-links</link>
+  <description>weekly source of the WordPress resources</description>
+  <lastBuildDate>Fri, 07 Aug 2015 10:25:00 +0000</lastBuildDate>
   <item>
     <title>Issue #1</title>
-    <link>http://dziudek.github.io/dev-links/#1</link>
-    <description>First issue of Dev Links</description>
-    <pubDate>Sun, 19 Apr 2015 20:00:00 +0000</pubDate>
+    <link>http://dziudek.github.io/wp-links/#1</link>
+    <description>First issue of WP Links</description>
+    <pubDate>Fri, 07 Aug 2015 10:25:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
