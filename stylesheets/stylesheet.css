@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #1e6bb8;
+  color: #21759b;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -112,7 +112,7 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #d54e21; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -319,7 +319,7 @@ body .main-content .tag {
 .issue a:active,
 .issue a:focus,
 .issue a:hover {
-  color: #159957;
+  color: #d54e21;
 }
 
 .issue li a:visited {
