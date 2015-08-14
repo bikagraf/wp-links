@@ -1,0 +1,56 @@
+{
+	"number": "2",
+	"date": "14-08-2015",
+	"items": [
+		{
+			"url": "https://make.wordpress.org/core/2015/08/08/wordpress-4-3-field-notes/",
+			"desc": "WordPress 4.3 Field Notes",
+			"tags": ["wordpress-4-3"]
+		},
+		{
+			"url": "https://blog.sucuri.net/2015/08/persistent-xss-vulnerability-in-wordpress-explained.html",
+			"desc": "Persistent XSS Vulnerability in WordPress Explained",
+			"tags": ["xss","security"]
+		},
+		{
+			"url": "https://www.gavick.com/blog/make-wordpress-site-more-secure-with-plugins",
+			"desc": "Make your WordPress site more secure with these five great plugins",
+			"tags": ["security","plugins"]
+		},
+		{
+			"url": "https://woocommerce.wordpress.com/2015/08/10/hooray-the-helpful-hedgehog-is-here",
+			"desc": "WooCommerce 2.4 is live",
+			"tags": ["woocommerce"]
+		},
+		{
+			"url": "http://wptavern.com/wordpress-plugin-directory-surpasses-one-billion-total-downloads",
+			"desc": "WordPress Plugin Directory Surpasses One Billion Total Downloads",
+			"tags": ["plugins"]
+		},
+		{
+			"url": "http://www.smashingmagazine.com/2015/08/deploy-wordpress-plugins-with-github-using-transients/",
+			"desc": "How To Deploy WordPress Plugins With GitHub Using Transients",
+			"tags": ["github","transient","plugin"]
+		},
+		{
+			"url": "https://poststatus.com/takeaways-from-interviewing-13-great-wordpress-developers/",
+			"desc": "Takeaways from interviewing 13 great WordPress developers",
+			"tags": ["interview"]
+		},
+		{
+			"url": "https://wpism.com/wordpress-media-industry-infographic/",
+			"desc": "Why WordPress has become the Darling of Media Industry?",
+			"tags": ["infographic"]
+		},
+		{
+			"url": "https://ckon.wordpress.com/2015/08/09/wordpress-4-3-benchmark-hhvm-vs-php7/",
+			"desc": "WordPress 4.3 benchmark: HHVM 3.9 vs PHP 7.0",
+			"tags": ["php7","hhvm","performance"]
+		},
+		{
+			"url": "http://reviewsignal.com/blog/2015/07/28/wordpress-hosting-performance-benchmarks-2015/",
+			"desc": "WordPress Hosting Performance Benchmarks (2015)",
+			"tags": ["performance","hosting"]
+		}
+	]
+}
