@@ -1,0 +1,41 @@
+{
+	"number": "3",
+	"date": "21-08-2015",
+	"items": [
+		{
+			"url": "https://make.wordpress.org/themes/2015/08/15/themes-should-be-100-gpl/",
+			"desc": "Themes should be 100% GPL",
+			"tags": ["gpl","themes"]
+		},
+		{
+			"url": "http://wphierarchy.com/",
+			"desc": "The WordPress Template Hierarchy",
+			"tags": ["template","themes","resource"]
+		},
+		{
+			"url": "http://wplift.com/wordpress-development-tools",
+			"desc": "Are You Missing Out On These Great Free WordPress Development Tools?",
+			"tags": ["dev","tools"]
+		},
+		{
+			"url": "http://www.woothemes.com/2015/08/useful-wordpress-plugins/",
+			"desc": "10 WordPress plugins we greatly admire",
+			"tags": ["plugins","collection"]
+		},
+		{
+			"url": "http://rachievee.com/the-wordpress-hooks-firing-sequence/",
+			"desc": "The WordPress Hooks Firing Sequence!",
+			"tags": ["hooks"]
+		},
+		{
+			"url": "http://scottnelle.com/756/async-defer-enqueued-wordpress-scripts/",
+			"desc": "Add async, defer, or other attributes to enqueued WordPress scripts",
+			"tags": ["scripts","enqueue"]
+		},
+		{
+			"url": "http://premium.wpmudev.org/blog/make-wordpress-client-proof/",
+			"desc": "14 Tips for Making the WordPress Admin Client-Proof ",
+			"tags": ["customer","dashboard"]
+		}
+	]
+}
