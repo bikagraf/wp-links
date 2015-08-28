@@ -1,0 +1,51 @@
+{
+	"number": "4",
+	"date": "28-08-2015",
+	"items": [
+		{
+			"url": "http://blog.vaultpress.com/2015/08/20/interview-with-wordpress-orgs-security-czar-nikolay-bachiyski/",
+			"desc": "Interview with WordPress.org’s Security Czar, Nikolay Bachiyski",
+			"tags": ["security","interview"]
+		},
+		{
+			"url": "https://css-tricks.com/timber-and-twig-reignited-my-love-for-wordpress/",
+			"desc": "Timber and Twig Reignited My Love for WordPress",
+			"tags": ["timber","twig"]
+		},
+		{
+			"url": "https://make.wordpress.org/themes/2015/08/25/title-tag-support-now-required/",
+			"desc": "Title tag support now required",
+			"tags": ["title-tag","themes"]
+		},
+		{
+			"url": "https://make.wordpress.org/core/2015/08/25/introducing-twenty-sixteen/",
+			"desc": "Introducing Twenty Sixteen",
+			"tags": ["themes","2016"]
+		},
+		{
+			"url": "http://davidwalsh.name/prevent-wordpress-loading-pages",
+			"desc": "Prevent WordPress from Loading “Next” Pages",
+			"tags": ["performance"]
+		},
+		{
+			"url": "http://www.searchenginejournal.com/5-awesome-schema-org-rich-snippet-plugins-wordpress-users/",
+			"desc": "5 Awesome Schema.org Rich Snippet Plugins for WordPress Users",
+			"tags": ["schema","seo"]
+		},
+		{
+			"url": "http://www.wpsolver.com/plugin-notes/",
+			"desc": "Plugin Notes: Add Notes to WordPress Plugins",
+			"tags": ["plugin","tools"]
+		},
+		{
+			"url": "http://www.woothemes.com/2015/08/woocommerce-24-lessons/",
+			"desc": "Lessons learned from releasing WooCommerce 2.4",
+			"tags": ["woocommerce"]
+		},
+		{
+			"url": "https://yoast.com/yoast-seo-breaking-api-changes/",
+			"desc": "Yoast SEO: announcing breaking API Changes",
+			"tags": ["yoast","plugin"]
+		}
+	]
+}
