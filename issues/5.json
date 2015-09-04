@@ -1,0 +1,62 @@
+{
+	"number": "5",
+	"date": "04-09-2015",
+	"items": [
+		{
+			"url": "http://wptavern.com/wordpress-com-unveils-the-action-bar",
+			"desc": "WordPress.com Unveils the Action Bar",
+			"tags": ["wordpress-com", "ui"]
+		},
+		{
+			"url": "https://make.wordpress.org/plugins/2015/08/26/forks-and-copies/",
+			"desc": "Forks and Copies",
+			"tags": ["wordpress-org","forks","gpl"]
+		},
+		{
+			"url": "http://blog.michaelarestad.com/2015/08/26/wordpress-dark-admin-concept/",
+			"desc": "WordPress Dark Admin concept",
+			"tags": ["ui","dashboard","concept"]
+		},
+		{
+			"url": "https://hmn.md/2015/09/02/announcing-a-day-of-rest-the-wordpress-rest-api-conference/",
+			"desc": "Announcing A Day of REST – the WordPress REST API conference",
+			"tags": ["rest-api","conference"]
+		},
+		{
+			"url": "https://make.wordpress.org/core/2015/09/02/shortcode-roadmap-draft-one/",
+			"desc": "Shortcode Roadmap Draft One (Proposal – Request for Comments)",
+			"tags": ["shortcode"]
+		},
+		{
+			"url": "http://marketblog.envato.com/news/item-support-sustainability-authors-clarity-buyers/",
+			"desc": "Item Support: Sustainability for Authors and Clarity for Buyers",
+			"tags": ["theme-forest"]
+		},
+		{
+			"url": "http://wpshout.com/building-a-magical-golden-bridge-from-php-to-javascript-with-wp_localize_script/",
+			"desc": "Building a Magical Golden Bridge from PHP to JavaScript with wp_localize_script()",
+			"tags": ["php","js"]
+		},
+		{
+			"url": "https://make.wordpress.org/plugins/2015/09/01/plugin-translations-on-wordpress-org/",
+			"desc": "Plugin Translations on WordPress.org",
+			"tags": ["plugin","translation"]
+		},
+		{
+			"url": "https://pagely.com/blog/2015/09/pagespeed-insights-for-wordpress/",
+			"desc": "Identify Slow Pages With Google Pagespeed Insights For WordPress",
+			"tags": ["performance","plugin"]
+		},
+		{
+			"url": "http://www.wpbeginner.com/plugins/7-best-free-google-maps-plugins-for-wordpress/",
+			"desc": "7 Best Free Google Maps Plugins For WordPress",
+			"tags": ["maps","plugins"]
+		},
+		
+		{
+			"url": "https://ahmadawais.com/my-advanced-gulp-workflow-for-wordpress-themes/",
+			"desc": "My Advanced Gulp Workflow for WordPress Themes",
+			"tags": ["gulp","themes","workflow"]
+		}
+	]
+}
