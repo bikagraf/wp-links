@@ -1,0 +1,76 @@
+{
+	"number": "6",
+	"date": "11-09-2015",
+	"items": [
+		{
+			"url": "http://www.sitepoint.com/object-orientated-development-with-wordpress/",
+			"desc": "Object Orientated Development with WordPress",
+			"tags": ["oop","development"]
+		},
+		{
+			"url": "http://blog.red-website-design.co.uk/2014/12/10/the-20-most-popular-wordpress-seo-and-social-media-plugins/",
+			"desc": "The 20 Most Popular WordPress SEO and Social Media Plugins",
+			"tags": ["seo","social","plugins","collection"]
+		},
+		{
+			"url": "https://proplugindirectory.com/freemium-wordpress-plugin-business-model/",
+			"desc": "Pros and Cons of the Freemium Business Model for WordPress Plugin Developers",
+			"tags": ["plugin","business"]
+		},
+		{
+			"url": "http://chriswharton.me/2015/09/ghost-vs-wordpress-in-terms-of-income-and-support/",
+			"desc": "Ghost vs WordPress in terms of income and support",
+			"tags": ["ghost","wordpress"]
+		},
+		{
+			"url": "http://www.smashingmagazine.com/2015/09/extending-advanced-custom-fields-with-your-own-controls/",
+			"desc": "Extending Advanced Custom Fields With Your Own Controls",
+			"tags": ["acf","extending","controls"]
+		},
+		{
+			"url": "http://wptavern.com/a-bug-in-chrome-45-causes-wordpress-admin-menu-to-break",
+			"desc": "A Bug in Chrome 45 Causes WordPress Admin Menu to Break",
+			"tags": ["chrome","dashboard","bug"]
+		},
+		{
+			"url": "http://wptavern.com/a-conceptual-wordpress-plugin-by-stephen-cronin-that-makes-comment-moderation-easier",
+			"desc": "A Conceptual WordPress Plugin by Stephen Cronin That Makes Comment Moderation Easier",
+			"tags": ["comments","moderation"]
+		},
+		{
+			"url": "https://make.wordpress.org/core/2015/09/10/wordpress-and-php7/",
+			"desc": "WordPress and PHP7",
+			"tags": ["php7"]
+		},
+		{
+			"url": "http://rachievee.com/10-ways-to-learn-wordpress-hooks/",
+			"desc": "10 Ways to Learn WordPress Hooks",
+			"tags": ["hooks","learning"]
+		},
+		{
+			"url": "https://pippinsplugins.com/custom-database-api-reasons-for-custom-tables-and-an-api/",
+			"desc": "Custom Database API – Reasons for Custom Tables and an API",
+			"tags": ["db","api"]
+		},
+		{
+			"url": "http://www.business2community.com/online-marketing/how-to-delete-and-manage-your-wordpress-post-revisions-for-a-cleaner-wp-database-01319140",
+			"desc": "How to Delete and Manage Your WordPress Post Revisions For A Cleaner WP Database",
+			"tags": ["post","revisions"]
+		},
+		{
+			"url": "http://premium.wpmudev.org/blog/managing-multiple-wordpress-sites/",
+			"desc": "Managing Multiple WordPress Sites: The Ultimate Guide",
+			"tags": ["manage","multiple","wordpress"]
+		},
+		{
+			"url": "http://www.shoutmeloud.com/wordpress-custom-post-type-plugins.html",
+			"desc": "5 Best WordPress Custom Post Type You Should Know",
+			"tags": ["custom-post-type"]
+		},
+		{
+			"url": "http://jetpack.me/2015/09/09/jetpack-3-7-simpler-ui-support-for-development-sites-and-more/",
+			"desc": "Jetpack 3.7 — Simpler UI, Support for Development Sites, and More!",
+			"tags": ["jetpack","ui"]
+		}
+	]
+}
