@@ -1,0 +1,51 @@
+{
+	"number": "7",
+	"date": "18-09-2015",
+	"items": [
+		{
+			"url": "https://tommcfarlin.com/wordpress-developers-club/",
+			"desc": "The WordPress Developers Club",
+			"tags": ["club"]
+		},
+		{
+			"url": "https://make.wordpress.org/themes/2015/09/14/theme-review-team-needs-your-help/",
+			"desc": "Theme Review Team Needs Your Help!",
+			"tags": ["theme-review","themes"]
+		},
+		{
+			"url": "http://bobwp.com/my-list-of-wordpress-lists/",
+			"desc": "My List of WordPress Lists",
+			"tags": ["resources","collection"]
+		},
+		{
+			"url": "http://www.wpbeginner.com/plugins/how-to-customize-wordpress-excerpts-no-coding-required/",
+			"desc": "How to Customize WordPress Excerpts (No Coding Required)",
+			"tags": ["excerpt"]
+		},
+		{
+			"url": "http://www.wpbeginner.com/wp-tutorials/13-plugins-and-tips-to-improve-wordpress-admin-area/",
+			"desc": "13 Plugins and Tips to Improve WordPress Admin Area",
+			"tags": ["dashboard","plugins","collection"]
+		},
+		{
+			"url": "https://woocommerce.wordpress.com/2015/09/14/caching-and-dynamic-pricing-upcoming-changes-to-the-get_variation_prices-method/",
+			"desc": "Caching and dynamic pricing – upcoming changes to the get_variation_prices method",
+			"tags": ["woocommerce"]
+		},
+		{
+			"url": "https://blog.sucuri.net/2015/09/wordpress-brute-force-attacks-2015-threat-landscape.html",
+			"desc": "WordPress Brute Force Attacks – 2015 Threat Landscape",
+			"tags": ["security","brute-force"]
+		},
+		{
+			"url": "http://www.sitepoint.com/responsive-schedules-wordpress-timetable-plugin/",
+			"desc": "Responsive Schedules for WordPress with the Timetable Plugin",
+			"tags": ["timetable","plugin"]
+		},
+		{
+			"url": "https://webdesignledger.com/wordpress-theme-framework-tips",
+			"desc": "Things to Consider when Developing a WordPress Theme Framework",
+			"tags": ["themes","framework"]
+		}
+	]
+}
