@@ -1,0 +1,71 @@
+{
+    "number": "8",
+    "date": "25-09-2015",
+    "items": [
+        {
+            "url": "http://torquemag.io/the-ultimate-guide-to-the-wordpress-rest-api-an-ebook-by-josh-pollock/",
+            "desc": "'The Ultimate Guide To The Wordpress REST API' An Ebook By Josh Pollock",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/09/18/my-hacks-php-no-longer-supported/",
+            "desc": "my-hacks.php no longer supported",
+            "tags": ["old-features"]
+        },
+        {
+            "url": "http://www.sitepoint.com/wordpress-hybrid-client-wordpress-powered-ios-android-apps/",
+            "desc": "WordPress Hybrid Client: WordPress Powered iOS/Android Apps",
+            "tags": ["ios","android","apps"]
+        },
+        {
+            "url": "http://www.sitepoint.com/what-are-wordpress-nonces/",
+            "desc": "What Are WordPress Nonces?",
+            "tags": ["security","nonces"]
+        },
+        {
+            "url": "http://webdesignledger.com/launch-free-wp-theme",
+            "desc": "Introducing Launch: A New Free \"Coming Soon\" WordPress Theme",
+            "tags": ["theme","free"]
+        },
+        {
+            "url": "http://wptavern.com/the-wordpress-rest-api-is-one-major-step-closer-to-being-merged-into-core",
+            "desc": "The WordPress REST API Is One Major Step Closer to Being Merged Into Core",
+            "tags": ["rest-api","roadmap"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/09/23/outlining-a-possible-roadmap-for-the-customizer/",
+            "desc": "Outlining a possible roadmap for the Customizer",
+            "tags": ["theme-customizer","roadmap"]
+        },
+        {
+            "url": "https://tommcfarlin.com/php-codesniffer/",
+            "desc": "Using PHP CodeSniffer For MAMP and WordPress",
+            "tags": ["php","mamp"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/09/wordpress-management-with-wp-cli/",
+            "desc": "Advanced WordPress Management With WP-CLI",
+            "tags": ["wp-cli"]
+        },
+        {
+            "url": "http://www.woothemes.com/2015/09/benefits-selling-your-time/",
+            "desc": "The benefits of selling your time online",
+            "tags": ["themes"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-add-a-notification-center-in-wordpress/",
+            "desc": "How to Add a Notification Center in WordPress",
+            "tags": ["plugin","notifications"]
+        },
+        {
+            "url": "http://www.wpdailythemes.com/plugin/top-10-wordpress-plugins-for-theme-development/",
+            "desc": "Top 10 WordPress Plugins For Theme Development",
+            "tags": ["themes","plugin","collection"]
+        },
+        {
+            "url": "https://pagely.com/blog/2015/09/best-free-plagiarism-checker/",
+            "desc": "Best Free Plagiarism Checker Plugins for WordPress",
+            "tags": ["plagiarism","plugin"]
+        }
+    ]
+}
