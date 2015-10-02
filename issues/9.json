@@ -1,0 +1,46 @@
+{
+    "number": "9",
+    "date": "02-10-2015",
+    "items": [
+        {
+            "url": "https://developer.wordpress.com/2015/09/25/oembed-updates/",
+            "desc": "oEmbed Updates",
+            "tags": ["oembed","core"]
+        },
+        {
+            "url": "http://wptavern.com/wp-super-cache-1-4-5-patches-xss-vulnerability",
+            "desc": "WP Super Cache 1.4.5 Patches XSS Vulnerability",
+            "tags": ["security","xss","cache"]
+        },
+        {
+            "url": "https://make.wordpress.org/themes/2015/09/25/comment_form-changes-in-wordpress-4-4/",
+            "desc": "comment_form changes in WordPress 4.4",
+            "tags": ["core","comments"]
+        },
+        {
+            "url": "https://woocommerce.wordpress.com/2015/10/01/sneak-peek-wp-cli-support-in-woocommerce/",
+            "desc": "Sneak Peek: WP CLI Support in WooCommerce 2.5",
+            "tags": ["wp-cli","woocommerce"]
+        },
+        {
+            "url": "http://wptavern.com/wordpress-4-4-removes-the-view-post-and-get-shortlink-buttons-from-the-post-editor",
+            "desc": "WordPress 4.4 Removes the View Post and Get Shortlink Buttons From the Post Editor",
+            "tags": ["wp-4-4","core"]
+        },
+        {
+            "url": "http://wplift.com/easy-wordpress-theme-setup-options",
+            "desc": "Make it Easy for Users to Setup Your Themes: Demo Content, Importer, Plugin & Widget Setup",
+            "tags": ["themes","demo-content"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/20-best-free-woocommerce-plugins-for-wordpress/",
+            "desc": "20+ Best Free WooCommerce Plugins for WordPress",
+            "tags": ["woocommerce","plugins","collection"]
+        },
+        {
+            "url": "https://blog.sucuri.net/2015/10/security-advisory-stored-xss-in-jetpack.html",
+            "desc": "Security advisory: Stored XSS in Jetpack - Sucuri Blog",
+            "tags": ["jetpack","xss","security"]
+        }
+    ]
+}
