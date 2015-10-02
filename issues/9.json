@@ -41,6 +41,11 @@
             "url": "https://blog.sucuri.net/2015/10/security-advisory-stored-xss-in-jetpack.html",
             "desc": "Security advisory: Stored XSS in Jetpack - Sucuri Blog",
             "tags": ["jetpack","xss","security"]
+        },
+        {
+            "url": "http://www.sitepoint.com/all-you-need-to-know-about-the-new-wordpress-site-icon-api/",
+            "desc": "All you need to know about the new WordPress Site Icon API",
+            "tags": ["core","api"]
         }
     ]
 }
