@@ -1,0 +1,71 @@
+{
+    "number": "10",
+    "date": "09-10-2015",
+    "items": [
+        {
+            "url": "http://www.codeinwp.com/blog/wordpress-statistics/",
+            "desc": "WordPres Statistics",
+            "tags": ["stats"]
+        },
+        {
+            "url": "http://wpshout.com/using-cookies-in-wordpress-part-ii-cache-busting-with-ajax/",
+            "desc": "Using Cookies in WordPress, Part II: Cache-Busting with Ajax",
+            "tags": ["cookies","cache","ajax"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/10/07/single-post_type-post_name-php-new-theme-template-in-wordpress-4-4/",
+            "desc": "single-{post_type}-{post_name}.php: New theme template in WordPress 4.4",
+            "tags": ["themes","wp-44"]
+        },
+        {
+            "url": "http://www.woothemes.com/2015/10/woocommerce-10m-30-percent/",
+            "desc": "WooCommerce reaches 10M downloads, powers 30% of online stores",
+            "tags": ["woocommerce","stats"]
+        },
+        {
+            "url": "http://wptavern.com/the-first-half-of-the-rest-api-is-officially-added-to-wordpress-core",
+            "desc": "The First Half of the REST API Is Officially Added to WordPress Core",
+            "tags": ["rest-api","core","wp-44"]
+        },
+        {
+            "url": "https://vip.wordpress.com/2015/10/07/mobile-web/",
+            "desc": "Accelerating the Mobile Web",
+            "tags": ["amp","performance"]
+        },
+        {
+            "url": "https://woocommerce.wordpress.com/2015/10/07/new-session-handler-in-2-5/",
+            "desc": "WooCommerce - New session handler in 2.5",
+            "tags": ["woocommerce"]
+        },
+        {
+            "url": "https://bjornjohansen.no/two-factor-authentication-for-wordpress",
+            "desc": "Two Factor Authentication for WordPress",
+            "tags": ["2fa","security"]
+        },
+        {
+            "url": "http://scottnelle.com/794/wordpress-and-the-youtube-iframe-api/",
+            "desc": "Enable the YouTube iframe API for embedded videos",
+            "tags": ["youtube","oembed"]
+        },
+        {
+            "url": "http://www.elegantthemes.com/blog/editorial/from-kubrick-to-twenty-sixteen-a-history-of-wordpress-default-themes",
+            "desc": "From Kubrick to Twenty Sixteen: A History of WordPress Default Themes",
+            "tags": ["themes"]
+        },
+        {
+            "url": "https://make.wordpress.org/plugins/2015/10/01/protocol-relative-enqueues/",
+            "desc": "Protocol Relative Enqueues",
+            "tags": ["enqueue","assets"]
+        },
+        {
+            "url": "http://webdesignledger.com/highly-useful-wordpress-plugins-for-photographers",
+            "desc": "10 Highly Useful WordPress Plugins for Photographers",
+            "tags": ["plugins","collection"]
+        },
+        {
+            "url": "https://blog.sucuri.net/2015/10/brute-force-amplification-attacks-against-wordpress-xmlrpc.html",
+            "desc": "Brute Force Amplification Attacks Against WordPress XMLRPC",
+            "tags": ["xmlrpc","brute-force","security"]
+        }
+    ]
+}
