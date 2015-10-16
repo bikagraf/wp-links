@@ -1,0 +1,61 @@
+{
+    "number": "11",
+    "date": "16-10-2015",
+    "items": [
+        {
+            "url": "http://www.sitepoint.com/wordpress-development-with-dockunit-io/",
+            "desc": "Containerized WordPress Development with Dockunit.io",
+            "tags": ["dockunit","tools"]
+        },
+        {
+            "url": "http://webdesignledger.com/mailchimp-into-wordpress",
+            "desc": "Definitive Guide to Integrate MailChimp and WordPress",
+            "tags": ["mailchim", "mailing"]
+        },
+        {
+            "url": "https://wordpress.org/plugins/free-imagescc-importer/",
+            "desc": "free-images.cc Importer",
+            "tags": ["plugin"]
+        },
+        {
+            "url": "https://blog.sucuri.net/2015/10/security-advisory-stored-xss-in-akismet-wordpress-plugin.html",
+            "desc": "Security Advisory: Stored XSS in Akismet WordPress Plugin",
+            "tags": ["xss","akismet","security"]
+        },
+        {
+            "url": "https://css-tricks.com/the-wordpress-nav-walker-class-a-guided-var_dump/",
+            "desc": "The WordPress Nav Walker Class: A Guided var_dump()",
+            "tags": ["walker","menu"]
+        },
+        {
+            "url": "http://www.elegantthemes.com/blog/resources/a-general-pricing-guide-for-wordpress-websites",
+            "desc": "A General Pricing Guide for WordPress Websites",
+            "tags": ["pricing","guide"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/10/12/tweaks-to-user-searching-and-management/",
+            "desc": "Tweaks to user searching and management",
+            "tags": ["roles","dashboard"]
+        },
+        {
+            "url": "https://tommcfarlin.com/separate-files-for-ajax-in-wordpress/",
+            "desc": "Keeping Separate Files for Ajax in WordPress",
+            "tags": ["ajax"]
+        },
+        {
+            "url": "http://www.woothemes.com/2015/10/introducing-wooexperts/",
+            "desc": "Introducing WooExperts, our new verified developer program",
+            "tags": ["woocommerce"]
+        },
+        {
+            "url": "http://www.sitepoint.com/mastering-wordpress-roles-and-capabilities/",
+            "desc": "Mastering WordPress Roles and Capabilities",
+            "tags": ["roles","capabilites"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/10/13/week-in-core-sept-28-oct-11-2015/",
+            "desc": "Week in Core: Sept. 28 – Oct. 11, 2015",
+            "tags": ["responsive-images","oembed","rest-api"]
+        }
+    ]
+}
