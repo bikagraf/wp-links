@@ -1,0 +1,66 @@
+{
+    "number": "12",
+    "date": "23-10-2015",
+    "items": [
+        {
+            "url": "https://make.wordpress.org/core/2015/10/20/document-title-in-4-4/",
+            "desc": "Document title in 4.4",
+            "tags": ["core-4-4","title"]
+        },
+        {
+            "url": "http://www.getbeans.io/",
+            "desc": "Beans - The most innovative WordPress theme framework",
+            "tags": ["theme","framework"]
+        },
+        {
+            "url": "http://www.wpexplorer.com/helpdesk-wordpress-themes-business/",
+            "desc": "15 Best Helpdesk WordPress Themes for your Business",
+            "tags": ["themes","collection","helpdesk"]
+        },
+        {
+            "url": "https://markoheijnen.com/doing-image-manipulation-the-advanced-way-in-wordpress/",
+            "desc": "Doing image manipulation the advanced way in WordPress",
+            "tags": ["image","manipulation"]
+        },
+        {
+            "url": "http://premium.wpmudev.org/blog/annoy-wordpress-developer/",
+            "desc": "13 Ways to Annoy a WordPress Developer",
+            "tags": ["development"]
+        },
+        {
+            "url": "https://www.slideshare.net/slideshow/embed_code/54239445",
+            "desc": "Best Practices for WordPress in Enterprise",
+            "tags": ["enterprise"]
+        },
+        {
+            "url": "http://wptavern.com/its-time-for-xml-rpc-in-wordpress-to-hit-the-road",
+            "desc": "It’s Time for XML-RPC in WordPress to Hit the Road",
+            "tags": ["xml-rpc"]
+        },
+        {
+            "url": "https://wordpress.org/news/2015/10/wordpress-4-4-beta-1/",
+            "desc": "WordPress 4.4 Beta 1",
+            "tags": ["core", "core-4-4"]
+        },
+        {
+            "url": "https://tommcfarlin.com/debugging-minified-files-in-wordpress/",
+            "desc": "Debugging Minified Files in WordPress",
+            "tags": ["tricks"]
+        },
+        {
+            "url": "http://torquemag.io/how-creating-apps-with-wordpress-changes-perspective-and-standards-in-wordpress-development/",
+            "desc": "How Creating Apps With WordPress Changes Perspective And Standards In WordPress Development",
+            "tags": ["web-apps"]
+        },
+        {
+            "url": "https://make.wordpress.org/themes/2015/10/20/update-on-doing_it_wrong-theme/",
+            "desc": "Update on the doingitwrong theme",
+            "tags": ["best-practices"]
+        },
+        {
+            "url": "https://github.com/pawlisiak/_awp",
+            "desc": "pawlisiak/_awp",
+            "tags": ["amp","performance","theme"]
+        }
+    ]
+}
