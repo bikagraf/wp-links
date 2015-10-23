@@ -1,21 +1,17 @@
 (function($) {
 	var source   = $("#issue-template").html();
 	var template = Handlebars.compile(source);
-	var last = 0;
+	var last = 12;
 	
-	$.getJSON("issues/issues.json", function(data) {
-		last = data.last;
-		
-		if(
-			window.location.hash !== '' && 
-			parseInt(window.location.hash.replace('#', '')) > 0 && 
-			window.location.hash.replace('#', '') <= last
-		) {
-			loadContent(window.location.hash.replace('#', ''));
-		} else {
-			loadContent(last);
-		}
-	});
+	if(
+		window.location.hash !== '' && 
+		parseInt(window.location.hash.replace('#', '')) > 0 && 
+		window.location.hash.replace('#', '') <= last
+	) {
+		loadContent(window.location.hash.replace('#', ''));
+	} else {
+		loadContent(last);
+	}
 	
 	$('.issue').click(function(e) {
 		var toLoad = false;
