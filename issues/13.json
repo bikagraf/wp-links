@@ -1,0 +1,71 @@
+{
+    "number": "13",
+    "date": "30-10-2015",
+    "items": [
+        {
+            "url": "https://10up.github.io/Engineering-Best-Practices/",
+            "desc": "10up Engineering Best Practices",
+            "tags": ["best-practices","tips"]
+        },
+        {
+            "url": "http://torquemag.io/habits-skills-tools-10-world-class-wordpress-developers/",
+            "desc": "Habits, Skills, And Tools Of 10 World-Class WordPress Developers",
+            "tags": ["interview"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/10/23/wp-rest-api-version-2-0-beta-5/",
+            "desc": "WP REST API: Version 2.0 Beta 5",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/10/23/under-the-hood-of-twenty-sixteen/",
+            "desc": "Under the hood of Twenty Sixteen",
+            "tags": ["2016","themes"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/10/23/4-4-taxonomy-roundup/",
+            "desc": "4.4 Taxonomy Roundup",
+            "tags": ["taxonomy","core","core-44"]
+        },
+        {
+            "url": "http://code.tutsplus.com/series/mastering-wp_query--cms-818",
+            "desc": "Mastering WP_Query",
+            "tags": ["wp-query"]
+        },
+        {
+            "url": "http://wptavern.com/the-wordpress-theme-directory-no-longer-counts-automated-downloads",
+            "desc": "The WordPress Theme Directory No Longer Counts Automated Downloads",
+            "tags": ["theme-directory"]
+        },
+        {
+            "url": "http://wpshout.com/why-when-and-how-to-make-your-own-template-tags/",
+            "desc": "Why, When, and How to Make Your Own Template Tags",
+            "tags": ["template-tags","themes"]
+        },
+        {
+            "url": "http://wptavern.com/joe-mcgill-explains-how-responsive-images-work-in-wordpress-4-4",
+            "desc": "Joe McGill Explains How Responsive Images Work in WordPress 4.4",
+            "tags": ["core","core-44","rwd"]
+        },
+        {
+            "url": "https://blog.sucuri.net/2015/10/install-wpscan-wordpress-vulnerability-scan.html",
+            "desc": "How to Install WPScan",
+            "tags": ["security", "wpscan"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/10/28/headings-hierarchy-changes-in-the-admin-screens/",
+            "desc": "Headings hierarchy changes in the admin screens",
+            "tags": ["core-44","core","dashboard","ui"]
+        },
+        {
+            "url": "https://tommcfarlin.com/annoying-blog-habits/",
+            "desc": "Your Annoying Blog Habits (Are Now Mine)",
+            "tags": ["blog"]
+        },
+        {
+            "url": "http://www.wpkube.com/30-wordpress-firefox-plugins-developers-bloggers/",
+            "desc": "30 WordPress Firefox Plugins for Developers and Bloggers",
+            "tags": ["firefox","tools"]
+        }
+    ]
+}
