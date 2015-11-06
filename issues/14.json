@@ -1,0 +1,56 @@
+{
+    "number": "14",
+    "date": "06-11-2015",
+    "items": [
+        {
+            "url": "https://wordpress.org/plugins/simply-show-hooks/",
+            "desc": "Simply Show Hooks",
+            "tags": ["plugin","tools"]
+        },
+        {
+            "url": "http://www.sitepoint.com/handling-post-requests-the-wordpress-way/",
+            "desc": "Handling POST Requests the WordPress Way",
+            "tags": ["post"]
+        },
+        {
+            "url": "http://taylorlovett.com/2015/10/31/wordcamp-nyc-2015/",
+            "desc": "Modernizing WordPress Search with Elasticsearch",
+            "tags": ["search","elasticsearch"]
+        },
+        {
+            "url": "https://93digital.co.uk/wphistory/",
+            "desc": "WordPress Time Machine",
+            "tags": ["history"]
+        },
+        {
+            "url": "https://css-tricks.com/wordpress-plugins-we-use-3rd-edition/",
+            "desc": "WordPress Plugins We Use, 3rd Edition",
+            "tags": ["plugins","collection"]
+        },
+        {
+            "url": "http://wptheming.com/2015/11/account-functions-for-subscribers/",
+            "desc": "Useful Functions for Sites with Subscribers",
+            "tags": ["snippets"]
+        },
+        {
+            "url": "http://wpshout.com/core-concepts-of-wordpress-themes-processing-posts-with-the-loop/",
+            "desc": "Core Concepts of WordPress Themes: Processing Posts with The Loop",
+            "tags": ["loop"]
+        },
+        {
+            "url": "http://www.sitepoint.com/best-wordpress-backup-plugins/",
+            "desc": "The Best WordPress Backup Plugins Compared",
+            "tags": ["backup","comparision","plugins"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-allow-users-to-notify-you-of-errors-in-wordpress-posts/",
+            "desc": "How to Allow Users to Notify You of Errors in WordPress Posts",
+            "tags": ["plugin"]
+        },
+        {
+            "url": "https://wordpress.org/news/2015/11/wordpress-4-4-beta-3/",
+            "desc": "WordPress 4.4 Beta 3",
+            "tags": ["core","core-44","beta"]
+        }
+    ]
+}
