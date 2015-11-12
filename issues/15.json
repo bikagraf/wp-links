@@ -1,0 +1,86 @@
+{
+    "number": "15",
+    "date": "13-11-2015",
+    "items": [
+        {
+            "url": "https://make.wordpress.org/plugins/2015/11/06/creative-commons-licenses-in-the-plugin-directory/",
+            "desc": "Creative Commons Licenses in the Plugin Directory",
+            "tags": ["cc","licenses","plugins","themes"]
+        },
+        {
+            "url": "https://css-tricks.com/posting-code-blocks-wordpress-site/",
+            "desc": "Posting Code Blocks on a WordPress Site",
+            "tags": ["code","tips"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/news/whats-coming-in-wordpress-4-4-features-and-screenshots/",
+            "desc": "What's coming in WordPress 4.4?",
+            "tags": ["core","core-44"]
+        },
+        {
+            "url": "http://webdesignledger.com/best-ways-to-manage-version-control-in-wordpress",
+            "desc": "Best Ways to Manage Version Control in WordPress",
+            "tags": ["revisions"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/11/ripped-off-buying-wordpress-themes/",
+            "desc": "Are You Getting Cheated When Buying A WordPress Theme?",
+            "tags": ["themes","premium-themes"]
+        },
+        {
+            "url": "https://www.wordfence.com/blog/2015/11/plugin-vulnerabilities-nov/",
+            "desc": "New Vulnerabilities in 6 Popular WordPress Plugins",
+            "tags": ["security","xss","rce","csrf"]
+        },
+        {
+            "url": "https://woocommerce.wordpress.com/2015/11/09/woocommerce-2-5-beta-1/",
+            "desc": "WooCommerce 2.5 Beta 1",
+            "tags": ["woocommerce","beta","release"]
+        },
+        {
+            "url": "https://tommcfarlin.com/selecting-distinct-records-in-wordpress/",
+            "desc": "Selecting DISTINCT Records in WordPress",
+            "tags": ["db","query"]
+        },
+        {
+            "url": "https://wordpress.org/news/2015/11/wordpress-4-4-beta-4/",
+            "desc": "WordPress 4.4 Beta 4",
+            "tags": ["core","core-44","release","beta"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/11/11/wordpress-4-4-field-guide/",
+            "desc": "WordPress 4.4: Field Guide",
+            "tags": ["core","core-44"]
+        },
+        {
+            "url": "https://tommcfarlin.com/last-wordpress-query/",
+            "desc": "How To Display The Last WordPress Query",
+            "tags": ["query","db"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/11/10/responsive-images-in-wordpress-4-4/",
+            "desc": "Responsive Images in WordPress 4.4",
+            "tags": ["rwd","images","core","core-44"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/dry-wordpress-theme-development--cms-22117",
+            "desc": "DRY WordPress Theme Development",
+            "tags": ["themes","development"]
+        },
+        {
+            "url": "https://buddypress.org/2015/11/buddypress-2-4-0-pietro/",
+            "desc": "BuddyPress 2.4.0 – “Pietro”",
+            "tags": ["buddypress","release"]
+        },
+        {
+            "url": "http://wpshout.com/wordpress-caching-the-six-different-things-people-may-mean/",
+            "desc": "WordPress Caching: The Six Different Things People May Mean",
+            "tags": ["cache"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/improved-ajax-techniques-for-wordpress-procedural-programming--cms-24854",
+            "desc": "Improved Ajax Techniques for WordPress: Procedural Programming",
+            "tags": ["ajax"]
+        }
+    ]
+}
