@@ -1,0 +1,76 @@
+{
+    "number": "16",
+    "date": "20-11-2015",
+    "items": [
+        {
+            "url": "http://code.tutsplus.com/tutorials/improved-ajax-techniques-for-wordpress-object-oriented-programming--cms-24897",
+            "desc": "Improved Ajax Techniques for WordPress: Object-Oriented Programming",
+            "tags": ["ajax","oop"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/11/19/wp-rest-api-2-0-beta-7/",
+            "desc": "WP REST API: Version 2.0 Beta 7",
+            "tags": ["rest-api","beta"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-add-terms-of-service-agreement-in-wordpress/",
+            "desc": "How to Require Terms of Service Agreement in WordPress",
+            "tags": ["plugin","tos"]
+        },
+        {
+            "url": "http://wptavern.com/how-to-replace-wordpress-default-avatars-with-wapuu",
+            "desc": "How to Replace WordPress’ Default Avatars With Wapuu",
+            "tags": ["avatars","wapuu"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/11/18/wordpress-importer-redux/",
+            "desc": "WordPress Importer Redux",
+            "tags": ["import","plugin"]
+        },
+        {
+            "url": "http://wptavern.com/why-some-theme-authors-are-waiting-two-months-or-more-for-their-first-review",
+            "desc": "Why Some Theme Authors Are Waiting Two Months or More for Their First Review",
+            "tags": ["theme-review","themes"]
+        },
+        {
+            "url": "https://tommcfarlin.com/escaping-data-in-wordpress/",
+            "desc": "Escaping Data in WordPress (And Why It’s Important)",
+            "tags": ["security"]
+        },
+        {
+            "url": "http://devwp.eu/dont-call-yourself-a-developer-if-you-dont-code/",
+            "desc": "Don’t Call Yourself a Developer If You Don’t Code",
+            "tags": ["development"]
+        },
+        {
+            "url": "https://wpengine.com/blog/a-guide-to-the-wordpress-rest-api-for-non-developers/",
+            "desc": "A Guide To The WordPress REST API For Non-Developers",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "http://premium.wpmudev.org/blog/obscure-wordpress-features/",
+            "desc": "9 Awesome and Obscure WordPress Features You Didn’t Know Existed",
+            "tags": ["features"]
+        },
+        {
+            "url": "http://markwilkinson.me/2015/11/sorting-by-multiple-meta-keys-using-wp_query/",
+            "desc": "Sorting By Multiple Meta Keys Using WP_Query",
+            "tags": ["wp-query","meta"]
+        },
+        {
+            "url": "https://make.wordpress.org/plugins/2015/11/19/timthumb-eol/",
+            "desc": "TimThumb EOL",
+            "tags": ["timthumb"]
+        },
+        {
+            "url": "https://tommcfarlin.com/the-state-of-wordpress/",
+            "desc": "A Digression on The State of WordPress",
+            "tags": ["state-of-wordpress"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-improve-the-wordpress-distraction-free-writing-mode/",
+            "desc": "How to Improve the WordPress Distraction Free Writing Mode",
+            "tags": ["dfw","editor"]
+        }
+    ]
+}
