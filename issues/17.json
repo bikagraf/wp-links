@@ -1,0 +1,66 @@
+{
+    "number": "17",
+    "date": "27-11-2015",
+    "items": [
+        {
+            "url": "http://blog.cinu.pl/2015/11/php-static-code-analysis-vs-top-1000-wordpress-plugins.html",
+            "desc": "PHP static code analysis vs ~1000 top wordpress plugins = 103 vulnerable plugins found",
+            "tags": ["security","plugins"]
+        },
+        {
+            "url": "http://wptavern.com/nearly-half-of-the-wordpress-plugins-in-the-directory-are-not-updated-after-two-years",
+            "desc": "Nearly Half of the WordPress Plugins in the Directory Are Not Updated After Two Years",
+            "tags": ["plugins","security"]
+        },
+        {
+            "url": "https://wordpress.org/news/2015/11/wordpress-4-4-release-candidate/",
+            "desc": "WordPress 4.4 Release Candidate",
+            "tags": ["core-44","release","rc"]
+        },
+        {
+            "url": "http://themeshaper.com/2015/11/23/javascript-theme-tutorial/",
+            "desc": "The ThemeShaper JavaScript Theme Tutorial",
+            "tags": ["js","rest-api","themes"]
+        },
+        {
+            "url": "http://wptavern.com/the-wordpress-theme-directory-replaces-download-counts-with-the-number-of-active-installs",
+            "desc": "The WordPress Theme Directory Replaces Download Counts With the Number of Active Installs",
+            "tags": ["wordpress-org","themes"]
+        },
+        {
+            "url": "https://tommcfarlin.com/source-and-distribution-directories-in-wordpress-development/",
+            "desc": "Source and Distribution Directories in WordPress Development",
+            "tags": ["development","workflow"]
+        },
+        {
+            "url": "http://mikejolley.com/2015/11/26/github-to-wordpress-org-deploy-script/",
+            "desc": "Github to WordPress.org deploy script",
+            "tags": ["wordpress-org","deploy"]
+        },
+        {
+            "url": "http://torquemag.io/read-starting-wordpress-business-empire/",
+            "desc": "Read This Before Starting Your WordPress Business Empire",
+            "tags": ["business"]
+        },
+        {
+            "url": "http://markwilkinson.me/2015/11/wp-skeleton-a-starter-repository-for-building-wordpress-sites/",
+            "desc": "WP Skeleton – A Starter Repository for Building WordPress Sites",
+            "tags": ["starter"]
+        },
+        {
+            "url": "http://ma.tt/2015/11/dance-to-calypso/",
+            "desc": "Dance to Calypso",
+            "tags": ["calypso","wordpress-com"]
+        },
+        {
+            "url": "https://developer.wordpress.com/2015/11/23/the-story-behind-the-new-wordpress-com/",
+            "desc": "The Story Behind the New WordPress.com",
+            "tags": ["wordpress-com"]
+        },
+        {
+            "url": "https://poststatus.com/wordpress-com-mac-app/",
+            "desc": "Automattic has released an open source WordPress.com Mac app",
+            "tags": ["wordpress-com"]
+        }
+    ]
+}
