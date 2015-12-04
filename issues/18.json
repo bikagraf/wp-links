@@ -1,0 +1,76 @@
+{
+    "number": "04-12-2015",
+    "date": "18",
+    "items": [
+        {
+            "url": "https://quickleft.com/blog/six-things-know-wordpress-moving-javascript/",
+            "desc": "Six Things You Should Know About WordPress Moving to JavaScript",
+            "tags": ["wordpress-com","calypso"]
+        },
+        {
+            "url": "http://themehybrid.com/weblog/introduction-to-wordpress-term-meta",
+            "desc": "Introduction to WordPress term meta",
+            "tags": ["term-meta","terms"]
+        },
+        {
+            "url": "http://wpshout.com/introduction-to-wpdb-why-not/",
+            "desc": "What $wpdb Is, and Why I Try Not To Use It",
+            "tags": ["wpdb"]
+        },
+        {
+            "url": "https://tommcfarlin.com/priority-of-ajax-in-wordpress/",
+            "desc": "Priority of Ajax in WordPress",
+            "tags": ["ajax"]
+        },
+        {
+            "url": "https://tommcfarlin.com/freemius-for-wordpress/",
+            "desc": "All About Freemius For WordPress",
+            "tags": ["freemium"]
+        },
+        {
+            "url": "http://www.codeinwp.com/blog/pages-wordpress-site-needs/",
+            "desc": "11 Pages WordPress Site Needs That You've Never Thought Of",
+            "tags": ["content"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/12/02/customizer-improvements-in-4-4/",
+            "desc": "Customizer improvements in 4.4",
+            "tags": ["theme-customizer","core-44"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/12/02/wp-rest-api-version-2-0-beta-8/",
+            "desc": "WP REST API: Version 2.0 Beta 8",
+            "tags": ["rest-api","beta"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/12/01/menu-ids-in-wp-page-menu/",
+            "desc": "Menu ids in wp_page_menu()",
+            "tags": ["core-44","menu"]
+        },
+        {
+            "url": "http://wptavern.com/early-reviews-show-applications-like-calypso-are-the-future-of-wordpress",
+            "desc": "Early Reviews Show Applications Like Calypso Are the Future of WordPress",
+            "tags": ["calypso"]
+        },
+        {
+            "url": "http://chriswallace.org/calypso/",
+            "desc": "My Thoughts on Calypso",
+            "tags": ["calypso"]
+        },
+        {
+            "url": "http://www.wpkube.com/learn-success-wordpress/",
+            "desc": "What We Can Learn from the Success of WordPress",
+            "tags": ["ecosystem"]
+        },
+        {
+            "url": "https://tommcfarlin.com/what-is-wordpress-kses/",
+            "desc": "What is WordPress kses?",
+            "tags": ["security","kses"]
+        },
+        {
+        	"url": "http://torquemag.io/how-to-reduce-the-abandon-rate-of-your-wordpress-plugin/",
+        	"desc": "How To Reduce The Abandon Rate Of Your WordPress Plugin",
+        	"tags": ["business","plugins"]
+        }
+    ]
+}
