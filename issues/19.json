@@ -1,0 +1,81 @@
+{
+    "number": "19",
+    "date": "11-12-2015",
+    "items": [
+        {
+            "url": "http://ma.tt/2015/12/state-of-the-word-2015/",
+            "desc": "State of the Word 2015",
+            "tags": ["state-of-the-word","2015"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/news/whats-new-in-wordpress-4-4/",
+            "desc": "What's new in WordPress 4.4?",
+            "tags": ["core-44"]
+        },
+        {
+            "url": "https://www.perfect-web.co/blog/313-the-ultimate-wordpress-update-guide",
+            "desc": "The ultimate WordPress update guide",
+            "tags": ["core","update","guide"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/12/07/rest-api-tools-and-oauth/",
+            "desc": "WP REST API: New Tools & OAuth Updates",
+            "tags": ["rest-api","oauth"]
+        },
+        {
+            "url": "http://wpshout.com/make-site-faster-async-deferred-javascript-introducing-script_loader_tag/",
+            "desc": "Make Your Site Faster with Async and Deferred JavaScript",
+            "tags": ["script_loader_tag", "js"]
+        },
+        {
+            "url": "http://jetpack.me/2015/12/04/webp-support/",
+            "desc": "Photon Now Delivers Images Even Faster than Before",
+            "tags": ["photon","webp"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-display-plugin-and-theme-information-in-wordpress/",
+            "desc": "How to display plugin and theme informatio in WordPress",
+            "tags": ["plugins","themes"]
+        },
+        {
+            "url": "http://www.smashingmagazine.com/2015/12/how-to-use-term-meta-data-in-wordpress/",
+            "desc": "Introducing Term Meta Data In WordPress And How To Use Them",
+            "tags": ["term-meta", "core-44"]
+        },
+        {
+            "url": "https://tommcfarlin.com/more-and-more-javascript-in-wordpress/",
+            "desc": "More and More JavaScript in WordPress",
+            "tags": ["js"]
+        },
+        {
+            "url": "https://85ideas.com/plugins/best-plugins-fix-featured-image-issues-wordpress/",
+            "desc": "6+ Best Plugins To Fix Featured Image Issues in WordPress",
+            "tags": ["featured-image","plugins","collection"]
+        },
+        {
+            "url": "http://www.elegantthemes.com/blog/tips-tricks/an-introduction-to-wordpress-nonces-with-examples",
+            "desc": "An Introduction to WordPress Nonces with Examples",
+            "tags": ["security","nonces"]
+        },
+        {
+            "url": "https://tommcfarlin.com/object-oriented-wordpress-meta-boxes/",
+            "desc": "What Are Object-Oriented WordPress Meta Boxes?",
+            "tags": ["meta-box"]
+        },
+        {
+            "url": "http://wp.zacgordon.com/2015/12/08/the-sustaining-heart-of-the-wordpress-community/",
+            "desc": "The Sustaining Heart of the WordPress Community",
+            "tags": ["community"]
+        },
+        {
+            "url": "http://www.webdesignerdepot.com/2015/12/wordpress-4-4-will-revolutionize-how-we-publish/",
+            "desc": "WordPress 4.4 will revolutionize how we publish",
+            "tags": ["core-44"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-disable-post-oembed-on-your-wordpress-site/",
+            "desc": "How to disable post oEmbed on your WordPress site",
+            "tags": ["oembed"]
+        }
+    ]
+}
