@@ -1,0 +1,76 @@
+{
+    "number": "20",
+    "date": "18-12-2015",
+    "items": [
+        {
+            "url": "https://www.wordfence.com/learn/",
+            "desc": "The WordPress Security Learning Center",
+            "tags": ["security"]
+        },
+        {
+            "url": "https://hmn.md/2015/12/15/making-use-of-the-wordpress-rest-api-infrastructure/",
+            "desc": "Making use of the WordPress REST API Infrastructure",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "https://tommcfarlin.com/wordpress-upgrade-doesnt-break-your-site/",
+            "desc": "A WordPress Upgrade Doesn’t Break Your Site",
+            "tags": ["update"]
+        },
+        {
+            "url": "http://www.sitepoint.com/wordpress-theme-frameworks/",
+            "desc": "The Definitive Guide to WordPress Theme Frameworks",
+            "tags": ["themes","frameworks"]
+        },
+        {
+            "url": "http://wptavern.com/how-to-fix-images-not-loading-in-wordpress-4-4-while-using-ssl",
+            "desc": "How to Fix Images Not Loading in WordPress 4.4 While Using SSL",
+            "tags": ["ssl","core-44"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/12/11/wp-rest-api-version-2-0-beta-9/",
+            "desc": "WP REST API: Version 2.0 Beta 9",
+            "tags": ["rest-api","beta","release"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/12/11/additional-labels-for-custom-post-types-and-custom-taxonomies/",
+            "desc": "Additional labels for custom post types and custom taxonomies",
+            "tags": ["cpt","taxonomies"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2015/12/11/2fa-2fa-2fa/",
+            "desc": "2FA! 2FA! 2FA!",
+            "tags": ["2fa","security","core"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-add-content-templates-in-wordpress-post-editor/",
+            "desc": "How to Add Content Templates in WordPress Post Editor",
+            "tags": ["templates","editor"]
+        },
+        {
+            "url": "http://www.noupe.com/wordpress/post-snippets-for-wordpress-must-have-plugin-94248.html",
+            "desc": "Post Snippets for WordPress: You Need This Plugin",
+            "tags": ["snippets"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/wp-tutorials/how-to-move-comment-text-field-to-bottom-in-wordpress-4-4/",
+            "desc": "How to Move Comment Text Field to Bottom in WordPress 4.4",
+            "tags": ["comments","core-44"]
+        },
+        {
+            "url": "http://wptavern.com/poll-shows-majority-consider-public-redistribution-of-commercial-themes-and-plugins-to-be-unethical",
+            "desc": "Poll Shows Majority Consider Public Redistribution of Commercial Themes and Plugins to be Unethical",
+            "tags": ["gpl","themes","plugins"]
+        },
+        {
+            "url": "http://wptavern.com/wordpress-com-open-sources-desktop-app-linux-version-now-available",
+            "desc": "WordPress.com Open Sources Desktop App, Linux Version Now Available",
+            "tags": ["wordpress-com","calypso"]
+        },
+        {
+            "url": "https://make.wordpress.org/accessibility/2015/12/15/accessibility-code-standards-for-wordpress-core/",
+            "desc": "Accessibility code standards for WordPress core",
+            "tags": ["accessibility", "core"]
+        }
+    ]
+}
