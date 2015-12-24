@@ -1,0 +1,41 @@
+{
+    "number": "21",
+    "date": "24-12-2015",
+    "items": [
+        {
+            "url": "https://blog.sucuri.net/2015/12/using-wpscan-finding-wordpress-vulnerabilities.html",
+            "desc": "Using WPScan: Finding WordPress Vulnerabilities",
+            "tags": ["wpscan","security"]
+        },
+        {
+            "url": "http://hookr.io/plugin/",
+            "desc": "Hookr.io Plugin",
+            "tags": ["plugin","hooks"]
+        },
+        {
+            "url": "http://www.wprecipes.com/wordpress-tip-move-all-javascript-files-to-the-footer-automatically",
+            "desc": "Move all JavaScript files to the footer automatically",
+            "tags": ["scripts","performance"]
+        },
+        {
+            "url": "https://www.wordfence.com/blog/2015/12/xss-vulnerabilities-hacking-ftp/",
+            "desc": "Half of all WordPress Plugin Vulnerabilities are XSS and Securing FTP",
+            "tags": ["security","xss"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/beginners-guide/beginners-guide-how-to-use-rich-snippets-in-wordpress/",
+            "desc": "How to Use Rich Snippets in WordPress",
+            "tags": ["seo","rich-snippets"]
+        },
+        {
+            "url": "http://wptavern.com/new-plugin-restores-lost-functionality-in-wordpress",
+            "desc": "New Plugin Restores Lost Functionality in WordPress",
+            "tags": ["old-core","plugin"]
+        },
+        {
+            "url": "http://torquemag.io/17-best-code-editors-wordpress-developers-users/",
+            "desc": "17 Best Code Editors For WordPress Developers And Users",
+            "tags": ["editors","comparision"]
+        }
+    ]
+}
