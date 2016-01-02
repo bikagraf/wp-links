@@ -1,0 +1,56 @@
+{
+    "number": "22",
+    "date": "02-01-2016",
+    "items": [
+        {
+            "url": "https://tommcfarlin.com/wordpress-articles-1/",
+            "desc": "Must Read WordPress Articles",
+            "tags": ["articles","collection","2015"]
+        },
+        {
+            "url": "https://tommcfarlin.com/wordpress-articles-2/",
+            "desc": "Must Read WordPress Articles 2",
+            "tags": ["articles","collection","2015"]
+        },
+        {
+            "url": "http://www.catswhocode.com/blog/using-sql-to-manage-wordpress-the-definitive-guide",
+            "desc": "Using SQL to manage WordPress: The definitive guide",
+            "tags": ["sql"]
+        },
+        {
+            "url": "http://wptavern.com/automattics-wordads-network-is-now-open-to-self-hosted-wordpress-sites",
+            "desc": "Automattic’s WordAds Network is Now Open to Self-Hosted WordPress Sites",
+            "tags": ["ads","automattic"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-compare-active-wordpress-plugins-between-two-sites/",
+            "desc": "How to Compare Active WordPress Plugins Between Two Sites",
+            "tags": ["plugin","tools"]
+        },
+        {
+            "url": "https://wordpress.org/plugins/plugin-inspector/",
+            "desc": "Plugin Inspector",
+            "tags": ["plugin","security"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/wp-tutorials/how-to-add-a-shortcodes-user-interface-in-wordpress-with-shortcake/",
+            "desc": "How to Add a Shortcodes User Interface in WordPress with Shortcake",
+            "tags": ["shortcode","shortcake-ui"]
+        },
+        {
+            "url": "http://torquemag.io/many-companies-automattic-acquired-think-infographic/",
+            "desc": "How Many Companies Has Automattic Acquired? It's More Than You Think",
+            "tags": ["infographic","automattic"]
+        },
+        {
+            "url": "https://premium.wpmudev.org/blog/wordpress-stats/",
+            "desc": "13 Impressive WordPress Stats Worth Bookmarking for Clients",
+            "tags": ["stats"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-show-parent-comment-in-wordpress-comments/",
+            "desc": "How to Show Parent Comment in WordPress Comments",
+            "tags": ["comments"]
+        }
+    ]
+}
