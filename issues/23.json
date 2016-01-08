@@ -1,0 +1,56 @@
+{
+    "number": "23",
+    "date": "08-01-2016",
+    "items": [
+        {
+            "url": "http://wptheming.com/2016/01/unit-tests-for-woocommerce-extensions/",
+            "desc": "Unit Tests for WooCommerce Extensions",
+            "tags": ["woocommerce", "unit-tests"]
+        },
+        {
+            "url": "http://www.businessinsider.com/automattic-hires-employees-automatically-2016-1",
+            "desc": "Billion-dollar startup Automattic hires employees without ever meeting them or talking to them on the phone",
+            "tags": ["automattic"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/01/get-started-with-hooks-wordpress/",
+            "desc": "Useful Tips To Get Started With WordPress Hooks",
+            "tags": ["hooks"]
+        },
+        {
+            "url": "https://woocommerce.wordpress.com/2016/01/05/woocommerce-2-5-release-candidate/",
+            "desc": "WooCommerce 2.5 Release Candidate",
+            "tags": ["woocommerce","rc","release"]
+        },
+        {
+            "url": "https://woocommerce.wordpress.com/2016/01/07/woocommerce-2016-core-wishlist/",
+            "desc": "WooCommerce 2016 core wishlist",
+            "tags": ["woocommerce","2016"]
+        },
+        {
+            "url": "http://wpshout.com/wordpress-hosting-review-2016-results/",
+            "desc": "WordPress Hosting Review 2016: The Results",
+            "tags": ["hosting"]
+        },
+        {
+            "url": "https://wordpress.org/news/2016/01/wordpress-4-4-1-security-and-maintenance-release/",
+            "desc": "WordPress 4.4.1 Security and Maintenance Release",
+            "tags": ["core","security","release"]
+        },
+        {
+            "url": "http://wptavern.com/sixty-three-percent-of-wordpress-core-committers-are-not-employed-by-automattic",
+            "desc": "63% of WordPress Core Committers Are Not Employed by Automattic",
+            "tags": ["core","committers"]
+        },
+        {
+            "url": "http://wptavern.com/wordpress-org-added-910-new-themes-in-2015",
+            "desc": "WordPress.org Added 910 New Themes in 2015",
+            "tags": ["wordpress-org","themes"]
+        },
+        {
+            "url": "http://www.confluentforms.com/2016/01/wordpress-future-web-technology.html",
+            "desc": "WordPress is signaling a major change to the web: what you need to know",
+            "tags": ["wordpress-com","calypso"]
+        }
+    ]
+}
