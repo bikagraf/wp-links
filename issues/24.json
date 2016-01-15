@@ -1,0 +1,86 @@
+{
+    "number": "24",
+    "date": "15-01-2016",
+    "items": [
+        {
+            "url": "http://www.noeltock.com/web-design/wordpress/wordpress-in-2016",
+            "desc": "WordPress in 2016",
+            "tags": ["2016"]
+        },
+        {
+            "url": "https://hmn.md/wordpress-rest-api-white-paper/",
+            "desc": "WordPress REST API White Paper",
+            "tags": ["rest-api","whitepaper"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/wp-rest-api-setting-up-and-using-basic-authentication--cms-24762",
+            "desc": "WP REST API: Setting Up and Using Basic Authentication",
+            "tags": ["rest-api","auth"]
+        },
+        {
+            "url": "https://tommcfarlin.com/wordpress-product-support/",
+            "desc": "Should WordPress Product Support Be In-House?",
+            "tags": ["support"]
+        },
+        {
+            "url": "http://themeshaper.com/2016/01/08/themes-and-user-experience/",
+            "desc": "WordPress Themes and User Experience",
+            "tags": ["themes","ux"]
+        },
+        {
+            "url": "https://woocommerce.wordpress.com/2016/01/11/woocommerce-2-4-13-fix-release-and-2-5-rc2/",
+            "desc": "WooCommerce 2.4.13 fix release and 2.5 RC2",
+            "tags": ["woocommerce","release"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/01/11/wp-rest-api-version-2-0-beta-10-with-security-releases/",
+            "desc": "WP REST API: Version 2.0 Beta 10, with security releases",
+            "tags": ["rest-api","release"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-add-a-pdf-viewer-in-wordpress/",
+            "desc": "How to add a PDF viewer in WordPress",
+            "tags": ["pdf","plugin"]
+        },
+        {
+            "url": "http://reviewsignal.com/blog/2014/06/25/40-million-hits-a-day-on-wordpress-using-a-10-vps/",
+            "desc": "40 Million hits a day on WordPress using a $10 VPS",
+            "tags": ["performance","vps"]
+        },
+        {
+            "url": "http://wptavern.com/easily-hide-menus-in-wordpress-with-the-clean-wp-admin-menu-plugin",
+            "desc": "Easily Hide Menus in WordPress With The Clean WP Admin Menu Plugin",
+            "tags": ["plugin","dashboard","ui"]
+        },
+        {
+            "url": "http://www.sitepoint.com/an-introduction-to-wordpress-plugin-development/",
+            "desc": "An Introduction to WordPress Plugin Development",
+            "tags": ["plugin","development"]
+        },
+        {
+            "url": "http://wptavern.com/buddypress-rest-api-feature-plugin-now-in-development",
+            "desc": "BuddyPress REST API Feature Plugin Now in Development",
+            "tags": ["buddypress","rest-api"]
+        },
+        {
+            "url": "http://wptavern.com/wp-asset-clean-up-plugin-removes-unused-styles-and-scripts",
+            "desc": "WP Asset Clean Up Plugin Removes Unused Styles and Scripts",
+            "tags": ["performance","plugin"]
+        },
+        {
+            "url": "https://www.wordfence.com/learn/2015-wordpress-security-survey/",
+            "desc": "Annual WordPress Security Survey - 2015",
+            "tags": ["security","survery"]
+        },
+        {
+            "url": "http://wptavern.com/how-to-assign-icons-images-and-colors-to-categories-and-tags-in-the-wordpress-backend",
+            "desc": "How to Assign Icons, Images, and Colors to Categories and Tags in The WordPress Backend",
+            "tags": ["dashboard"]
+        },
+        {
+            "url": "http://www.wpmayor.com/how-to-achieve-google-pagespeed-score-90-higher/",
+            "desc": "How to Achieve a Google PageSpeed Score of 90% or Higher with Your WordPress Website",
+            "tags": ["performance","page-speed"]
+        }
+    ]
+}
