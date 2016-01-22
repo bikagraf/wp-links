@@ -1,0 +1,76 @@
+{
+    "number": "25",
+    "date": "22-01-2016",
+    "items": [
+        {
+            "url": "https://make.wordpress.org/core/2016/01/16/editor-wishlist-for-4-5/",
+            "desc": "Editor wishlist for 4.5",
+            "tags": ["core", "core-45"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/wp-rest-api-setting-up-and-using-oauth-10a-authentication--cms-24797",
+            "desc": "WP REST API: Setting Up and Using OAuth 1.0a Authentication",
+            "tags": ["rest-api","oauth"]
+        },
+        {
+            "url": "https://woocommerce.wordpress.com/2016/01/18/say-hello-to-woocommerce-2-5-dashing-dolphin/",
+            "desc": "Say hello to WooCommerce 2.5 'Dashing Dolphin'",
+            "tags": ["woocommerce","release"]
+        },
+        {
+            "url": "https://digwp.com/2016/01/include-styles-child-theme/",
+            "desc": "How to Include Styles in Child Themes",
+            "tags": ["themes","child-themes"]
+        },
+        {
+            "url": "https://hmn.md/2016/01/18/lightweight-image-previews-in-wordpress-with-gaussholder/",
+            "desc": "Lightweight Image Previews in WordPress with Gaussholder",
+            "tags": ["plugins","ux"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/the-concept-of-plugin-territory-in-wordpress--cms-25083",
+            "desc": "The Concept of 'Plugin Territory' in WordPress",
+            "tags": ["plugins","themes"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/wp-tutorials/how-to-fix-image-color-and-saturation-loss-in-wordpress/",
+            "desc": "How to Fix Image Color and Saturation Loss in WordPress",
+            "tags": ["colors"]
+        },
+        {
+            "url": "http://www.sitepoint.com/faceted-search-with-wordpress/",
+            "desc": "Faceted Search with WordPress",
+            "tags": ["search"]
+        },
+        {
+            "url": "http://wptavern.com/glotpress-is-now-available-as-a-wordpress-plugin",
+            "desc": "GlotPress is Now Available as a WordPress Plugin",
+            "tags": ["glotpress","plugins"]
+        },
+        {
+            "url": "http://wpshout.com/sorting-ordering-nested-data-wordpress-fun-php-arrays-usort/",
+            "desc": "Sorting and Ordering Nested Data in WordPress: Fun with PHP Arrays and usort()",
+            "tags": ["wp-query","db"]
+        },
+        {
+            "url": "http://www.sitepoint.com/working-with-databases-in-wordpress/",
+            "desc": "Working with Databases in WordPress",
+            "tags": ["db"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/how-to-make-wordpress-sites-different-by-geography--cms-25053",
+            "desc": "How to Make WordPress Sites Different by Geography",
+            "tags": ["geolocation"]
+        },
+        {
+            "url": "http://jetpack.me/2016/01/20/39-sitemaps-skype-sharing/",
+            "desc": "Jetpack 3.9 - Sitemaps, a new Skype Sharing Button, and More",
+            "tags": ["jetpack","release"]
+        },
+        {
+            "url": "http://www.sitepoint.com/wordpress-plugin-updates-right-way/",
+            "desc": "WordPress Plugin Updates the Right Way",
+            "tags": ["plugins","update"]
+        }
+    ]
+}
