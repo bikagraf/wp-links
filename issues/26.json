@@ -1,0 +1,81 @@
+{
+    "number": "26",
+    "date": "29-01-2016",
+    "items": [
+        {
+            "url": "https://medium.com/@jasongowans/the-genius-of-wordpress-and-why-it-s-doomed-d9fd571712fe",
+            "desc": "The Genius of Wordpress (and why it’s doomed)",
+            "tags": ["ecosystem"]
+        },
+        {
+            "url": "https://css-tricks.com/templating-languages-and-wordpress/",
+            "desc": "Templating languages and WordPress",
+            "tags": ["templates"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/creating-single-page-applications-with-wordpress-and-angularjs--cms-25095",
+            "desc": "Creating Single Page Applications With WordPress and Angular.js",
+            "tags": ["angularjs"]
+        },
+        {
+            "url": "http://wptavern.com/deployer-app-pushes-plugins-from-github-to-wordpress-org",
+            "desc": "Deployer App Pushes Plugins from GitHub to WordPress.org",
+            "tags": ["github","wordpress-org"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/01/27/shiny-updates-v2/",
+            "desc": "Shiny Updates v2",
+            "tags": ["core"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/wp-tutorials/how-to-fix-wordpress-rss-feed-errors/",
+            "desc": "How to fix WordPress RSS feed errors",
+            "tags": ["rss"]
+        },
+        {
+            "url": "http://www.sitepoint.com/building-a-multi-step-registration-form-for-wordpress/",
+            "desc": "Building a Multi-step Registration Form for WordPress",
+            "tags": ["forms","ui"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/01/26/wp-rest-api-version-2-0-beta-11/",
+            "desc": "WP REST API: Version 2.0 Beta 11",
+            "tags": ["rest-api","release"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/fortifying-security-in-wordpress-part-1--cms-25403",
+            "desc": "Fortifying Security in WordPress, Part 1",
+            "tags": ["security"]
+        },
+        {
+            "url": "http://www.codeinwp.com/blog/learning-javascript-for-wordpress/",
+            "desc": "Guide to Learning JavaScript as a WordPress Developer",
+            "tags": ["js"]
+        },
+        {
+            "url": "https://www.wordfence.com/blog/2016/01/january-wordpress-security-roundup-core-and-plugin-vulnerabilities/",
+            "desc": "WordPress Security January Roundup: Core XSS and 4 Plugin vulnerabilities",
+            "tags": ["security"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/01/28/previewing-site-responsiveness-in-the-customizer/",
+            "desc": "Previewing Site Responsiveness in the Customizer",
+            "tags": ["customizer","rwd"]
+        },
+        {
+            "url": "http://nonprofitwp.org/",
+            "desc": "NonprofitWP: WordPress Guide for Nonprofits",
+            "tags": ["non-profit","guide"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/01/27/the-two-factor-plugin-is-currently-on-a/",
+            "desc": "The Two Factor Plugin is currently on a…",
+            "tags": ["2fa","core"]
+        },
+        {
+            "url": "http://www.sitepoint.com/getting-started-with-wordpress-mvc/",
+            "desc": "Getting Started with WordPress MVC",
+            "tags": ["mvc"]
+        }
+    ]
+}
