@@ -1,0 +1,56 @@
+{
+    "number": "27",
+    "date": "05-02-2016",
+    "items": [
+        {
+            "url": "https://www.scalewp.io/",
+            "desc": "WordPress at Scale",
+            "tags": ["scale"]
+        },
+        {
+            "url": "https://poststatus.com/a-day-of-rest-review/",
+            "desc": "The first WordPress REST API conference, in review",
+            "tags": ["rest-api","conference"]
+        },
+        {
+            "url": "https://tommcfarlin.com/talk-about-wordpress/",
+            "desc": "How We Talk About WordPress",
+            "tags": ["ecosystem"]
+        },
+        {
+            "url": "http://www.sitepoint.com/publishing-a-plugin-to-the-wordpress-plugin-directory/",
+            "desc": "Publishing a Plugin to the WordPress Plugin Directory",
+            "tags": ["plugins"]
+        },
+        {
+            "url": "http://www.wpexplorer.com/wordpress-blog-post-checklist/",
+            "desc": "The Only WordPress Blog Post Checklist You’ll Ever Need (And How to Implement It)",
+            "tags": ["blog","checklist"]
+        },
+        {
+            "url": "http://www.elegantthemes.com/blog/tips-tricks/business-opportunities-in-the-growing-wordpress-economy",
+            "desc": "Business Opportunities in the Growing WordPress Economy",
+            "tags": ["business"]
+        },
+        {
+            "url": "https://premium.wpmudev.org/blog/learning-php-deeply/",
+            "desc": "Learning PHP, Deeply: 8 Resources for WordPress Developers",
+            "tags": ["php"]
+        },
+        {
+            "url": "https://halfelf.org/2016/wp-json-api-challenges/",
+            "desc": "WP JSON API Challenges",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "http://themeshaper.com/2016/01/29/jetpack-dependency-script/",
+            "desc": "Give Your Jetpack Themes a Boost",
+            "tags": ["jetpack","themes"]
+        },
+        {
+            "url": "http://www.wpmayor.com/wp-crm-system-crm-solution-wordpress/",
+            "desc": "WP-CRM System: A Total CRM Solution for WordPress",
+            "tags": ["crm","plugin"]
+        }
+    ]
+}
