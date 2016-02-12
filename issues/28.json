@@ -1,0 +1,96 @@
+{
+    "number": "28",
+    "date": "12-02-2016",
+    "items": [
+        {
+            "url": "http://themeshaper.com/2016/02/09/introducing-components/",
+            "desc": "Introducing Components: A Toolbox for WordPress Theme Development",
+            "tags": ["themes","tools"]
+        },
+        {
+            "url": "http://www.sitepoint.com/are-wordpress-themes-killing-web-design/",
+            "desc": "Are WordPress Themes Killing Web Design?",
+            "tags": ["themes","web-design"]
+        },
+        {
+            "url": "http://wptavern.com/wordpress-org-has-fewer-than-20-plugins-using-the-wp-rest-api-v2",
+            "desc": "WordPress.org Has Fewer Than 20 Plugins Using the WP REST API in Core",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-improve-accessibility-on-your-wordpress-site/",
+            "desc": "How to improve accessibility on your WordPress site",
+            "tags": ["accessibility"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/02/09/wp-rest-api-version-2-0-beta-12/",
+            "desc": "WP REST API: Version 2.0 Beta 12",
+            "tags": ["rest-api","release"]
+        },
+        {
+            "url": "http://www.codeinwp.com/blog/community-improve-seo-part-3/",
+            "desc": "Data: A Community Around Your WordPress Site - Yes or No",
+            "tags": ["community"]
+        },
+        {
+            "url": "https://buddypress.org/2016/02/buddypress-2-5-0-beta-1/",
+            "desc": "BuddyPress 2.5.0 Beta 1",
+            "tags": ["buddypress","release"]
+        },
+        {
+            "url": "https://www.woothemes.com/2016/02/remove-product-crucial-steps/",
+            "desc": "6 steps to take when removing a product",
+            "tags": ["woocommerce"]
+        },
+        {
+            "url": "https://poststatus.com/wordpress-rest-api-should-be-iterative/",
+            "desc": "Complete coverage should not be a requirement for core inclusion of WordPress REST API endpoints",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "https://woocommerce.wordpress.com/2016/02/10/shipping-zones-to-ship-with-2-6/",
+            "desc": "Shipping Zones to ship with 2.6",
+            "tags": ["woocommerce"]
+        },
+        {
+            "url": "https://make.wordpress.org/themes/2016/02/08/making-a-changelog-work-for-you/",
+            "desc": "Making a changelog work for you",
+            "tags": ["changelog"]
+        },
+        {
+            "url": "http://wpshout.com/wordpresss-conservatism-the-best-worst-thing/",
+            "desc": "WordPress's Conservatism: The Best Worst Thing",
+            "tags": ["backward-compatiblity"]
+        },
+        {
+            "url": "https://make.wordpress.org/themes/2016/02/09/can-i-have-a-slider-and-other-things/",
+            "desc": "Can I have a slider and other things?",
+            "tags": ["slider"]
+        },
+        {
+            "url": "http://wptavern.com/learn-how-to-test-wordpress-core-patches-with-vvv-on-mac-os",
+            "desc": "Learn How to Test WordPress Core Patches with VVV on Mac OS",
+            "tags": ["core","vvv"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/opinion/36-reasons-why-having-a-free-website-is-a-bad-idea/",
+            "desc": "36 reasons why having a free website is a bad idea",
+            "tags": ["hosting"]
+        },
+        {
+            "url": "http://www.sitepoint.com/10-of-the-most-popular-free-wordpress-themes/",
+            "desc": "10 of the Most Popular Free WordPress Themes",
+            "tags": ["free","themes"]
+        },
+        {
+            "url": "https://tommcfarlin.com/update-user-profiles-in-wordpress/",
+            "desc": "Programmatically Update User Profiles",
+            "tags": ["user-profile"]
+        },
+        {
+            "url": "http://www.billerickson.net/load-media-from-production/",
+            "desc": "Plugin: Load Media from Production",
+            "tags": ["media"]
+        }
+    ]
+}
