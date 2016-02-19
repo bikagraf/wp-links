@@ -1,0 +1,76 @@
+{
+    "number": "29",
+    "date": "19-02-2015",
+    "items": [
+        {
+            "url": "http://www.wpbeginner.com/wp-tutorials/how-to-add-free-ssl-in-wordpress-with-lets-encrypt/",
+            "desc": "How to Add Free SSL in WordPress with Let's Encrypt",
+            "tags": ["ssl"]
+        },
+        {
+            "url": "https://make.wordpress.org/themes/2016/02/12/share-your-best-review-tips/",
+            "desc": "Share your best review tips",
+            "tags": ["themes","review"]
+        },
+        {
+            "url": "http://wptavern.com/customizer-responsive-preview-and-selective-refresh-to-be-merged-into-wordpress-4-5",
+            "desc": "Customizer Responsive Preview and Selective Refresh to be Merged Into WordPress 4.5",
+            "tags": ["themes","customizer"]
+        },
+        {
+            "url": "http://wptheming.com/2016/02/background-images-customizer/",
+            "desc": "Background Images and the Customizer",
+            "tags": ["themes","customizer"]
+        },
+        {
+            "url": "https://blog.sucuri.net/2016/02/wordpress-sites-leveraged-in-ddos-campaigns.html",
+            "desc": "WordPress Sites Leveraged in Layer 7 DDoS Campaigns",
+            "tags": ["security","ddos"]
+        },
+        {
+            "url": "https://taylorlovett.com/2016/02/17/json-rest-api-subscriptions-plugin/",
+            "desc": "JSON REST API Subscriptions Plugin",
+            "tags": ["rest-api","plugin"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/02/16/selective-refresh-in-the-customizer/",
+            "desc": "Selective Refresh in the Customizer",
+            "tags": ["customizer"]
+        },
+        {
+            "url": "http://wptavern.com/tgm-plugin-activation-team-releases-custom-generator",
+            "desc": "TGM Plugin Activation Team Releases Custom Generator",
+            "tags": ["tgm","plugin"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-white-label-your-wordpress-admin-dashboard/",
+            "desc": "How to white label your WordPress admin dashboard",
+            "tags": ["customization","dashboard"]
+        },
+        {
+            "url": "http://wpshout.com/using-wp_query-objects-without-loop/",
+            "desc": "Using WP_Query Objects Without the Loop",
+            "tags": ["wp-query"]
+        },
+        {
+            "url": "https://codeable.io/how-much-does-a-wordpress-site-really-cost/",
+            "desc": "How much does a WordPress site really cost?",
+            "tags": ["cost"]
+        },
+        {
+            "url": "https://wordpress.org/news/2016/02/experiment-wordcamp-incubator/",
+            "desc": "Experiment: WordCamp Incubator",
+            "tags": ["wordcamp"]
+        },
+         {
+            "url": "http://mediatemple.net/blog/tips/best-practices-in-wordpress-image-management/",
+            "desc": "Best Practices in WordPress: Image Management",
+            "tags": ["media"]
+        },
+        {
+            "url": "http://themeshaper.com/2016/02/12/jetpack-social-menu/",
+            "desc": "Jetpack Social Menu",
+            "tags": ["jetpack"]
+        }
+    ]
+}
