@@ -1,0 +1,71 @@
+{
+    "number": "30",
+    "date": "26-02-2016",
+    "items": [
+        {
+            "url": "https://wordpress.org/news/2016/02/wordpress-4-5-beta-1/",
+            "desc": "WordPress 4.5 Beta 1",
+            "tags": ["core","core-45","beta"]
+        },
+        {
+            "url": "http://www.sitepoint.com/10-tips-for-reducing-the-bounce-rate-on-your-wordpress-site/",
+            "desc": "10 Tips for Reducing the Bounce Rate on Your WordPress Site",
+            "tags": ["bounce-rate"]
+        },
+        {
+            "url": "http://wptavern.com/automattic-adds-amp-support-to-wordpress-com-releases-plugin-for-self-hosted-sites",
+            "desc": "Automattic Adds AMP Support to WordPress.com, Releases Plugin for Self-Hosted Sites",
+            "tags": ["amp"]
+        },
+        {
+            "url": "http://www.sitepoint.com/definitive-guide-to-wordpress-custom-post-types/",
+            "desc": "The Definitive Guide to WordPress Custom Post Types",
+            "tags": ["cpt"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/showcase/9-best-heatmap-tools-and-plugins-for-your-wordpress-site/",
+            "desc": "9 Best heatmap tools and plugins for your WordPress site",
+            "tags": ["ux","heatmap"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/02/22/proposal-increase-the-default-image-compression-in-wordpress/",
+            "desc": "Proposal: Increase the default image compression in WordPress",
+            "tags": ["images"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/02/23/rest-api-authentication/",
+            "desc": "REST API Authentication",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/02/24/theme-logo-support/",
+            "desc": "Theme Logo Support",
+            "tags": ["themes","logo"]
+        },
+        {
+            "url": "http://wptavern.com/10up-open-sources-elasticpress-plugin-for-woocommerce",
+            "desc": "10up Open Sources ElasticPress Plugin for WooCommerce",
+            "tags": ["plugin","woocommerce"]
+        },
+        {
+            "url": "http://wpshout.com/how-to-stop-a-post-publishing-without-a-featured-image-in-wordpress-with-jquery/",
+            "desc": "How To Stop a Post Publishing (Without a Featured Image) in WordPress with jQuery",
+            "tags": ["tips-and-tricks"]
+        },
+        {
+            "url": "https://bobwp.com/using-widget-visibility-jetpack-wordpress/",
+            "desc": "Are You Using Widget Visibility in Jetpack for WordPress?",
+            "tags": ["jetpack","widgets"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/how-to-work-with-wordpress-metadata--cms-25680",
+            "desc": "How to Work With WordPress Metadata",
+            "tags": ["metadata"]
+        },
+        {
+            "url": "https://tommcfarlin.com/quality-code-and-bloat/",
+            "desc": "Quality Code and Bloat in WordPress",
+            "tags": ["code-quality"]
+        }
+    ]
+}
