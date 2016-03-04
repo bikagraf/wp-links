@@ -1,0 +1,86 @@
+{
+    "number": "31",
+    "date": "04-03-2016",
+    "items": [
+        {
+            "url": "https://wordpress.org/news/2016/03/wordpress-4-5-beta-2/",
+            "desc": "WordPress 4.5 Beta 2",
+            "tags": ["core","release"]
+        },
+        {
+            "url": "https://buddypress.org/2016/03/buddypress-2-5-0/",
+            "desc": "BuddyPress 2.5.0 – “Medici”",
+            "tags": ["buddypress","release"]
+        },
+        {
+            "url": "http://wptavern.com/tgm-plugin-activation-library-contributors-work-toward-feature-plugin-proposal",
+            "desc": "TGM Plugin Activation Library Contributors Work Toward Feature Plugin Proposal",
+            "tags": ["tgm","plugins"]
+        },
+        {
+            "url": "http://wptheming.com/2016/02/query-by-jetpack-related-posts/",
+            "desc": "Query by JetPack Related Posts",
+            "tags": ["jetpack"]
+        },
+        {
+            "url": "https://tommcfarlin.com/initialize-wordpress-plugins/",
+            "desc": "The Right Hook To Initialize WordPress Plugins",
+            "tags": ["plugins"]
+        },
+        {
+            "url": "https://tommcfarlin.com/running-nginx-on-os-x/",
+            "desc": "Running Nginx on OS X for WordPress",
+            "tags": ["nginx"]
+        },
+        {
+            "url": "http://wptavern.com/the-wordpress-plugin-directory-is-getting-a-makeover",
+            "desc": "The WordPress Plugin Directory Is Getting a Makeover",
+            "tags": ["plugins"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/how-to-work-with-wordpress-post-metadata--cms-25715",
+            "desc": "How to Work With WordPress Post Metadata",
+            "tags": ["post","metadata"]
+        },
+        {
+            "url": "http://www.codeinwp.com/blog/product-hunt-collections-for-wordpress/",
+            "desc": "Product Hunt Collections for WordPress - The Ultimate List",
+            "tags": ["tools"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/wp-tutorials/how-to-create-custom-permalinks-in-wordpress/",
+            "desc": "How to Create Custom Permalinks in WordPress",
+            "tags": ["permalinks"]
+        },
+        {
+            "url": "http://wptavern.com/the-wordpress-plugin-directory-will-no-longer-accept-frameworks",
+            "desc": "The WordPress Plugin Directory Will No Longer Accept Frameworks",
+            "tags": ["plugins"]
+        },
+        {
+            "url": "http://www.wpkube.com/wordpress-history/",
+            "desc": "History of WordPress: A What You Must Know Guide",
+            "tags": ["history"]
+        },
+        {
+            "url": "https://tommcfarlin.com/sharing-gpl-code/",
+            "desc": "Sharing GPL Code and Its Ethics",
+            "tags": ["gpl"]
+        },
+        {
+            "url": "http://www.paulund.co.uk/dequeue-styles-scripts-wordpress",
+            "desc": "Dequeue Styles and Scripts In WordPress",
+            "tags": ["scripts"]
+        },
+        {
+            "url": "http://www.elegantthemes.com/blog/resources/15-amazing-wordpress-multisite-examples-in-the-wild",
+            "desc": "15 amazing WordPress multisite examples in the wild",
+            "tags": ["multisite"]
+        },
+        {
+            "url": "http://wptavern.com/roots-team-releases-wp-password-bcrypt-plugin-to-improve-wordpress-password-security",
+            "desc": "Roots Team Releases wp-password-bcrypt Plugin to Improve WordPress Password Security",
+            "tags": ["security"]
+        }
+    ]
+}
