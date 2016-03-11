@@ -1,0 +1,91 @@
+{
+    "number": "11-03-2016",
+    "date": "32",
+    "items": [
+        {
+            "url": "https://wordpress.org/news/2016/03/wordpress-4-5-beta-3/",
+            "desc": "WordPress 4.5 Beta 3",
+            "tags": ["core", "beta"]
+        },
+        {
+            "url": "https://blog.sucuri.net/2016/03/when-wordpress-plugin-goes-bad.html",
+            "desc": "When a WordPress Plugin Goes Bad",
+            "tags": ["security","plugins"]
+        },
+        {
+            "url": "http://www.sitepoint.com/scheduled-backups-for-wordpress-for-free-in-5-minutes/",
+            "desc": "Scheduled Backups for WordPress for Free in 5 Minutes",
+            "tags": ["backup"]
+        },
+        {
+            "url": "http://www.sitepoint.com/upcoming-wordpress-blog-previews-increase-user-engagement/",
+            "desc": "Upcoming WordPress Blog Previews to Increase User Engagement",
+            "tags": ["blog"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/03/07/reactions/",
+            "desc": "Reactions",
+            "tags": ["ui","core","feature"]
+        },
+        {
+            "url": "http://wpshout.com/stop-post-publishing-php/",
+            "desc": "How To Stop a Post Publishing in WordPress with PHP",
+            "tags": ["posts"]
+        },
+        {
+            "url": "http://wptavern.com/write-css-in-the-customizer-with-the-advanced-css-editor-plugin",
+            "desc": "Write CSS in the Customizer with the Advanced CSS Editor Plugin",
+            "tags": ["css","themes","theme-customizer"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/wp-rest-api-retrieving-data--cms-24694",
+            "desc": "WP REST API: Retrieving Data",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/03/10/customizer-improvements-in-4-5/",
+            "desc": "Customizer Improvements in 4.5",
+            "tags": ["core","core-45","theme-customizer"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/03/09/comment-changes-in-wordpress-4-5/",
+            "desc": "Comment Changes in WordPress 4.5",
+            "tags": ["core","core-45","comments"]
+        },
+        {
+            "url": "https://www.wordfence.com/blog/2016/03/backdoored-wordpress-plugin-vuln-roundup/",
+            "desc": "A Backdoored WordPress Plugin and 3 Additional Vulnerabilities",
+            "tags": ["security","plugins"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/03/08/enhanced-script-loader-in-wordpress-4-5/",
+            "desc": "Enhanced Script Loader in WordPress 4.5",
+            "tags": ["core","core-45"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-create-a-visual-sitemap-in-wordpress/",
+            "desc": "How to create a visual sitemap in WordPress",
+            "tags": ["sitemap"]
+        },
+        {
+            "url": "http://wptavern.com/automattic-releases-wordpress-plugin-for-facebooks-instant-articles",
+            "desc": "Automattic Releases WordPress Plugin for Facebook’s Instant Articles",
+            "tags": ["fb","plugin"]
+        },
+        {
+            "url": "https://poststatus.com/automattic-pressable/",
+            "desc": "Automattic has purchased a majority stake in Pressable",
+            "tags": ["pressable","automattic"]
+        },
+        {
+            "url": "http://wptavern.com/wordcamp-europe-2016-expands-attendee-capacity-to-2200-largest-wordcamp-to-date",
+            "desc": "WordCamp Europe 2016 Expands Attendee Capacity to 2200, Largest WordCamp to Date",
+            "tags": ["wordcamp","europe"]
+        },
+        {
+            "url": "http://www.sitepoint.com/creating-a-hello-bar-with-wordpress/",
+            "desc": "Creating a Hello Bar with WordPress",
+            "tags": ["ui"]
+        }
+    ]
+}
