@@ -1,0 +1,91 @@
+{
+    "number": "33",
+    "date": "18-03-2016",
+    "items": [
+        {
+            "url": "https://wordpress.org/news/2016/03/wordpress-4-5-beta-4/",
+            "desc": "WordPress 4.5 Beta 4",
+            "tags": ["core","core-45","beta","release"]
+        },
+        {
+            "url": "http://wptheming.com/2016/03/custom-logo-update-script/",
+            "desc": "Theme Update Script for Custom Logo",
+            "tags": ["themes"]
+        },
+        {
+            "url": "https://www.wordfence.com/blog/2016/03/hacked-site-impact-seo/",
+            "desc": "Hacked Sites Suffer Long Term Search Ranking Penalties",
+            "tags": ["security"]
+        },
+        {
+            "url": "http://wptavern.com/stack-overflow-survey-results-show-wordpress-is-trending-up-despite-being-ranked-among-most-dreaded-technologies",
+            "desc": "Stack Overflow Survey Results Show WordPress is Trending Up, Despite Being Ranked Among Most Dreaded Technologies",
+            "tags": ["stack-overflow"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/03/making-a-wordpress-plugin-that-uses-service-apis/",
+            "desc": "Making A WordPress Plugin That Uses Service APIs",
+            "tags": ["plugins"]
+        },
+        {
+            "url": "http://www.sitepoint.com/using-the-wordpress-customizer-media-controls/",
+            "desc": "Using the WordPress Theme Customizer Media Controls",
+            "tags": ["theme-customizer","themes"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/managing-redirections-in-wordpress-with-filters--cms-25664",
+            "desc": "Managing Redirections in WordPress With Filters",
+            "tags": ["filters"]
+        },
+        {
+            "url": "http://www.codeinwp.com/blog/transparency-report-13/",
+            "desc": "Late to WordPress Themes Market?",
+            "tags": ["themes"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-send-a-thank-you-email-to-blog-commenters-in-wordpress/",
+            "desc": "How to Send a Thank You Email to Blog Commenters in WordPress",
+            "tags": ["comments"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/03/14/fields-api-where-were-at/",
+            "desc": "Fields API — Where we’re at",
+            "tags": ["fields-api"]
+        },
+        {
+            "url": "https://tommcfarlin.com/easier-excerpts-for-wordpress/",
+            "desc": "Easier Excerpts For WordPress",
+            "tags": ["excerpts"]
+        },
+        {
+            "url": "http://wptavern.com/wordpress-global-translation-day-set-for-april-24-2016",
+            "desc": "WordPress Global Translation Day Set for April 24, 2016",
+            "tags": ["translation-day","community"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-integrate-your-wordpress-site-with-telegram/",
+            "desc": "How to Integrate Your WordPress Site with Telegram",
+            "tags": ["telegram"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/03/11/embeds-changes-in-wordpress-4-5/",
+            "desc": "Embeds Changes in WordPress 4.5",
+            "tags": ["core-45","oembed"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/how-to-work-with-wordpress-user-metadata--cms-25800",
+            "desc": "How to Work With WordPress User Metadata",
+            "tags": ["user-metadata"]
+        },
+        {
+            "url": "https://tommcfarlin.com/escaping-strings-for-wordpress/",
+            "desc": "Escaping Strings For WordPress Database Queries",
+            "tags": ["wpdb","security"]
+        },
+        {
+            "url": "http://wpshout.com/strange-nerd-strange-land-approaching-small-wordpress-client-projects/",
+            "desc": "Approaching Small WordPress Client Projects",
+            "tags": ["ecosystem"]
+        }
+    ]
+}
