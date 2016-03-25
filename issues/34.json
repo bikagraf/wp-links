@@ -1,0 +1,61 @@
+{
+    "number": "34",
+    "date": "25-03-2016",
+    "items": [
+        {
+            "url": "https://wordpress.org/news/2016/03/wordpress-4-5-release-candidate/",
+            "desc": "WordPress 4.5 Release Candidate",
+            "tags": ["core-45","rc"]
+        },
+        {
+            "url": "http://www.sitepoint.com/better-wordpress-sidebar/",
+            "desc": "10 Minutes to a Better WordPress Sidebar",
+            "tags": ["sidebar"]
+        },
+        {
+            "url": "https://www.wordfence.com/blog/2016/03/attackers-gain-access-wordpress-sites/",
+            "desc": "How Attackers Gain Access to WordPress Sites",
+            "tags": [security""]
+        },
+        {
+            "url": "http://www.sitepoint.com/modernizing-wordpress-theme-development-with-sage/",
+            "desc": "Modernizing WordPress Theme Development with Sage",
+            "tags": ["themes","sage"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/03/22/implementing-selective-refresh-support-for-widgets/",
+            "desc": "Implementing Selective Refresh Support for Widgets",
+            "tags": ["theme-customizer","widgets"]
+        },
+        {
+            "url": "http://wptavern.com/wordpress-adopts-accessibility-coding-standards-for-all-new-and-updated-code",
+            "desc": "WordPress Adopts Accessibility Coding Standards for All New and Updated Code",
+            "tags": ["accessibility"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/wp-tutorials/how-to-fix-the-403-forbidden-error-in-wordpress/",
+            "desc": "How to Fix the 403 Forbidden Error in WordPress",
+            "tags": ["errors"]
+        },
+        {
+            "url": "http://www.sitepoint.com/wordpress-custom-post-types-notices-taxonomies/",
+            "desc": "WordPress Custom Post Types - Notices and Taxonomies",
+            "tags": ["cpt"]
+        },
+        {
+            "url": "https://tommcfarlin.com/working-with-wordpress/",
+            "desc": "Working with WordPress: FUD and More?",
+            "tags": ["fud"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/how-to-work-with-wordpress-comment-metadata--cms-25885",
+            "desc": "How to Work With WordPress Comment Metadata",
+            "tags": ["comments","metadata"]
+        },
+        {
+            "url": "http://wptavern.com/wordpress-theme-review-team-moves-towards-automating-review-process",
+            "desc": "WordPress Theme Review Team Moves Towards Automating Review Process",
+            "tags": ["themes"]
+        }
+    ]
+}
