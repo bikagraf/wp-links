@@ -1,0 +1,76 @@
+{
+    "number": "35",
+    "date": "01-04-2016",
+    "items": [
+        {
+            "url": "http://www.codeinwp.com/blog/managed-wordpress-hosting-guide/",
+            "desc": "Managed WordPress Hosting: The All-You-Need-to-Know Guide",
+            "tags": ["hosting"]
+        },
+        {
+            "url": "https://make.wordpress.org/themes/2016/03/31/what-is-demo-content/",
+            "desc": "What is demo content?",
+            "tags": ["themes"]
+        },
+        {
+            "url": "http://wptavern.com/get-your-widgets-ready-for-wordpress-4-5",
+            "desc": "Get Your Widgets Ready for WordPress 4.5",
+            "tags": ["widgets","core-45"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-send-email-in-wordpress-using-the-gmail-smtp-server/",
+            "desc": "How to Send Email in WordPress using the Gmail SMTP Server",
+            "tags": ["email","gmail"]
+        },
+        {
+            "url": "https://www.smashingmagazine.com/2016/03/advanced-wordpress-search-with-wp_query/",
+            "desc": "Building An Advanced WordPress Search With WP_Query",
+            "tags": ["wp_query"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/03/28/the-editor-in-wordpress-4-5/",
+            "desc": "The Editor in WordPress 4.5",
+            "tags": ["tinymce"]
+        },
+        {
+            "url": "https://tommcfarlin.com/wordpress-autocomplete/",
+            "desc": "WordPress Autocomplete for Atom",
+            "tags": ["atom"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/wp-rest-api-creating-updating-and-deleting-data--cms-24883",
+            "desc": "WP REST API: Creating, Updating, and Deleting Data",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/03/30/wordpress-4-5-field-guide/",
+            "desc": "WordPress 4.5 Field Guide",
+            "tags": ["field-api","core-45"]
+        },
+        {
+            "url": "https://tommcfarlin.com/github-to-wordpress/",
+            "desc": "From GitHub to WordPress.org",
+            "tags": ["github","wordpress-org"]
+        },
+        {
+            "url": "http://wptavern.com/add-child-theme-support-to-any-wordpress-theme",
+            "desc": "Add Child Theme Support to Any WordPress Theme",
+            "tags": ["themes","child-theme"]
+        },
+        {
+            "url": "http://rachievee.com/10-wordpress-things-ive-learned-working-with-10up/",
+            "desc": "10 WordPress Things I've learned working with 10up",
+            "tags": ["tips-and-tricks"]
+        },
+        {
+            "url": "https://taylorlovett.com/2016/03/25/wordpress-caching-plugin-comparison/",
+            "desc": "Comparison of Popular WordPress Caching Solutions",
+            "tags": ["cache","comparision"]
+        },
+        {
+            "url": "http://code.tutsplus.com/tutorials/how-to-work-with-wordpress-term-meta-understanding-taxonomies--cms-25930",
+            "desc": "How to Work With WordPress Term Meta: Understanding Taxonomies",
+            "tags": ["term-meta","taxonomies"]
+        }
+    ]
+}
