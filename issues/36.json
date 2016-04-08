@@ -1,0 +1,91 @@
+{
+    "number": "36",
+    "date": "08-04-2016",
+    "items": [
+        {
+            "url": "https://www.wordfence.com/blog/2016/04/user-role-editor-vulnerability/",
+            "desc": "Vulnerability in User Role Editor - Users Can Become Admins",
+            "tags": ["security"]
+        },
+        {
+            "url": "http://wplift.com/cache-enabler",
+            "desc": "Cache Enabler: Speed up Your WordPress Website with Efficient Caching and Image Compression",
+            "tags": ["cache"]
+        },
+        {
+            "url": "http://themeshaper.com/2016/04/01/show-the-latest-featured-image-from-featured-content/",
+            "desc": "Show the Latest Featured Image from Featured Content",
+            "tags": ["themes"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/04/04/wp-rest-api-2-0-beta-13-roadmap/",
+            "desc": "WP REST API: 2.0 Beta 13 & Roadmap",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "https://tommcfarlin.com/wordpress-metadata/",
+            "desc": "How to Work with WordPress Metadata",
+            "tags": ["metadata"]
+        },
+        {
+            "url": "https://make.wordpress.org/core/2016/04/06/rest-api-slashed-data-in-wordpress-4-4-and-4-5/",
+            "desc": "REST API: Slashed Data in WordPress 4.4 and 4.5",
+            "tags": ["rest-api"]
+        },
+        {
+            "url": "https://tommcfarlin.com/document-your-practices/",
+            "desc": "Document Your Practices and Procedures",
+            "tags": ["workflow"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/16-best-wordpress-plugins-for-nonprofits/",
+            "desc": "16 Best WordPress Plugins for Nonprofits",
+            "tags": ["plugins","non-profit"]
+        },
+        {
+            "url": "http://www.wpbeginner.com/plugins/how-to-get-quick-feedback-on-your-articles-in-wordpress/",
+            "desc": "How to get quick feedback on your articles in WordPress",
+            "tags": ["plugins","feedback"]
+        },
+        {
+            "url": "https://carlalexander.ca/wordpress-adventurous-wp-query-class/",
+            "desc": "WordPress for the adventurous: WP_Query class",
+            "tags": ["wp_query"]
+        },
+        {
+            "url": "http://code.tutsplus.com/articles/wordpress-actions-and-filters-whats-the-difference--cms-25700",
+            "desc": "WordPress Actions and Filters: What's the Difference?",
+            "tags": ["filters","actions"]
+        },
+        {
+            "url": "https://www.wordfence.com/blog/2016/04/mossack-fonseca-breach-vulnerable-slider-revolution/",
+            "desc": "Mossack Fonseca Breach - WordPress Revolution Slider Plugin Possible Cause",
+            "tags": ["security"]
+        },
+        {
+            "url": "http://wptavern.com/versionpress-transitions-into-a-free-open-source-project",
+            "desc": "VersionPress Transitions Into a Free Open Source Project",
+            "tags": ["plugins"]
+        },
+        {
+            "url": "http://wptavern.com/wp-rest-api-team-aims-for-wordpress-4-7-for-merge-proposal",
+            "desc": "WP REST API Team Aims for WordPress 4.7 for Merge Proposal",
+            "tags": ["rest-api","core-47"]
+        },
+        {
+            "url": "http://wptavern.com/features-as-plugins-first-transitions-into-features-as-projects",
+            "desc": "Features-as-Plugins First Transitions Into Features-as-Projects",
+            "tags": ["core"]
+        },
+        {
+            "url": "https://wordpress.org/news/2016/04/contributor-weekend-global-wordpress-translation-day/",
+            "desc": "Contributor Weekend: Global WordPress Translation Day",
+            "tags": ["translation"]
+        },
+        {
+            "url": "http://www.sitepoint.com/modern-wordpress-development-with-bedrock/",
+            "desc": "Modern WordPress Development with Bedrock",
+            "tags": ["themes","bedrock"]
+        }
+    ]
+}
